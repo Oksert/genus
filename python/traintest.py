@@ -4,6 +4,7 @@ from PMC import *
 import logging
 import logging.handlers
 import glob
+from dbHandler import *
 
 def main():
 	parserParams=dict([('processing', 'STEMMING')])
@@ -13,19 +14,18 @@ def main():
 	bask = []
 	allFiles = glob.glob(trainSet)
 	print len(allFiles)
-	#allTopics = getAllTopics(trainSet)
+	allTopics = getAllTopics(trainSet)
 	for f in allFiles:
 		with open (f, "r") as myfile:
     			data=myfile.read().replace('\n', '')
+
 		doc = {'encoding': "UTF-8", 'content': data, 'URL': ''}
-		#docTopic = getTopicName(f)
+		docTopic = getTopicName(f)
 		docTopicId = []
-		#Саша - Молодец!
-		#docTopicId.append(allTopics[docTopic])
-		#print str(docTopicId)
-		document = {'document':doc, 'topics':'12'}
+		print allTopics[docTopic]
+		docTopicId.append(allTopics[docTopic])
+		document = {'document':doc, 'topics':docTopicId}
 		bask.append(document)
-	document = dict([('document',doc), ('topics',1)])
 	tsParams=dict([('numberOfDocuments', len(allFiles)), ('basket',bask)])
 	cm = ThreadContext.ContextManager(PathFactory())
 	CModule.setContextManager(cm)
@@ -55,9 +55,6 @@ def main():
 		ff.write(f)
 		pmc.predict(doc,ctx)
 	ff.write("Topics:\n")
-	#for item in allTopics:
-	#	ff.write(item + ":" + str(allTopics[item]) + "\n")
-	#logger = logging.getLogger("tmp.log")
-	#contman = ThreadContext.ContextManager("", 10000)
-	#contman = ThreadContext.getDefaultContext(contman)
-	#startTrain(ParserParams, MeasureParams, ClassifierParams, TSParams) #two predefined parameters PMCType PMCParams
+	for item in allTopics:
+		ff.write(item + ":" + str(allTopics[item]) + "\n")
+	

@@ -1,7 +1,11 @@
-Number_Of_Topics= 2
-Number_Of_Support_Vectors= 1
-Number_Of_Binary_Problems= 2
+Number_Of_Topics= 3
+Number_Of_Support_Vectors= 3
+Number_Of_Binary_Problems= 6
 Multiclass_decomposition_type= 0
 Decomposition_Matrix
-1 -1 
--1 1 
+1 -1 0 
+1 0 -1 
+0 1 -1 
+0 -1 1 
+-1 0 1 
+-1 1 0 

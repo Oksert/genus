@@ -1,1 +1,4 @@
 /home/kostya/Downloads/predict/A0127.txtTopics:
+Java:3
+Commercial Banks:2
+Building Societies:1
