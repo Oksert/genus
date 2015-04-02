@@ -1,792 +1,359 @@
-2015-04-02 11:35:10,883 DEBUG Test run started...
-2015-04-02 11:35:10,883 DEBUG Test run finished...
-2015-04-02 11:35:10,883 DEBUG Parsing genus.xml
-2015-04-02 11:35:10,884 DEBUG Kernel url = http://127.0.0.1:8080/kernel/xmlrpc
-2015-04-02 11:35:10,884 DEBUG Classifier host: samara.mlab.cs.msu.su; port: 
-2015-04-02 11:35:10,885 DEBUG 32000
-2015-04-02 11:35:10,885 DEBUG Starting document cycle
-2015-04-02 11:35:10,885 DEBUG Creating parser
-2015-04-02 11:35:10,885 INFO Requesting document 0
-2015-04-02 11:35:10,885 DEBUG Parsing document
-2015-04-02 11:35:10,885 INFO Parsing with parameters:
-2015-04-02 11:35:10,885 INFO Train: 1
-2015-04-02 11:35:10,885 INFO Processing (0 - None, 1 - Stemming, 2 - gramm): 1
-2015-04-02 11:35:10,885 INFO Gramm number: 3
-2015-04-02 11:35:10,885 INFO Convert encodings: 1
-2015-04-02 11:35:10,885 INFO Encoding: UTF-8
-2015-04-02 11:35:10,885 DEBUG Starting parser
-2015-04-02 11:35:10,886 DEBUG Getting contexts
-2015-04-02 11:35:10,886 DEBUG Initializing case converter and stop-words database.
-2015-04-02 11:35:10,886 DEBUG Initializing dictionary.
-2015-04-02 11:35:10,886 DEBUG Creating parsing pipe.
-2015-04-02 11:35:10,886 DEBUG Processing text...
-2015-04-02 11:35:10,905 DEBUG Processing finished.
-2015-04-02 11:35:10,907 DEBUG Parse succeeded
-2015-04-02 11:35:10,908 DEBUG Creating parser
-2015-04-02 11:35:10,908 INFO Requesting document 1
-2015-04-02 11:35:10,909 DEBUG Parsing document
-2015-04-02 11:35:10,909 INFO Parsing with parameters:
-2015-04-02 11:35:10,910 INFO Train: 1
-2015-04-02 11:35:10,910 INFO Processing (0 - None, 1 - Stemming, 2 - gramm): 1
-2015-04-02 11:35:10,910 INFO Gramm number: 3
-2015-04-02 11:35:10,911 INFO Convert encodings: 1
-2015-04-02 11:35:10,911 INFO Encoding: UTF-8
-2015-04-02 11:35:10,911 DEBUG Starting parser
-2015-04-02 11:35:10,912 DEBUG Getting contexts
-2015-04-02 11:35:10,912 DEBUG Initializing case converter and stop-words database.
-2015-04-02 11:35:10,913 DEBUG Initializing dictionary.
-2015-04-02 11:35:10,913 DEBUG Creating parsing pipe.
-2015-04-02 11:35:10,913 DEBUG Processing text...
-2015-04-02 11:35:10,915 DEBUG Encountered link: #navigation
-2015-04-02 11:35:10,916 DEBUG Link stored
-2015-04-02 11:35:10,916 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,916 DEBUG Encountered link: /
-2015-04-02 11:35:10,916 DEBUG Link stored
-2015-04-02 11:35:10,916 DEBUG Encountered image: /img/insidelogoc.gif
-2015-04-02 11:35:10,916 DEBUG Encountered image: /img/dot.gif
-2015-04-02 11:35:10,916 DEBUG Encountered link: /page.php?id_link=160
-2015-04-02 11:35:10,916 DEBUG Link stored
-2015-04-02 11:35:10,917 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,917 DEBUG Encountered link: /page.php?id_link=76
-2015-04-02 11:35:10,917 DEBUG Link stored
-2015-04-02 11:35:10,917 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,917 DEBUG Encountered link: /page.php?id_link=75
-2015-04-02 11:35:10,917 DEBUG Link stored
-2015-04-02 11:35:10,917 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,917 DEBUG Encountered link: /page.php?id_link=83
-2015-04-02 11:35:10,918 DEBUG Link stored
-2015-04-02 11:35:10,918 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,918 DEBUG Encountered link: /page.php?id_link=84
-2015-04-02 11:35:10,918 DEBUG Link stored
-2015-04-02 11:35:10,918 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,918 DEBUG Encountered link: /page.php?id_link=91
-2015-04-02 11:35:10,918 DEBUG Link stored
-2015-04-02 11:35:10,918 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,919 DEBUG Encountered link: /page.php?id_link=89
-2015-04-02 11:35:10,919 DEBUG Link stored
-2015-04-02 11:35:10,919 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,919 DEBUG Encountered link: /page.php?id_link=90
-2015-04-02 11:35:10,919 DEBUG Link stored
-2015-04-02 11:35:10,919 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,919 DEBUG Encountered link: /page.php?id_link=266
-2015-04-02 11:35:10,920 DEBUG Link stored
-2015-04-02 11:35:10,920 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,920 DEBUG Encountered link: /page.php?id_link=543
-2015-04-02 11:35:10,920 DEBUG Link stored
-2015-04-02 11:35:10,920 DEBUG Encountered image: /img/navdots.gif
-2015-04-02 11:35:10,921 DEBUG Encountered link: /page.php?id_link=608
-2015-04-02 11:35:10,921 DEBUG Link stored
-2015-04-02 11:35:10,921 DEBUG Encountered image: /img/search/insideundernavc.gif
-2015-04-02 11:35:10,921 DEBUG Encountered link: slb-results.html
-2015-04-02 11:35:10,921 DEBUG Link stored
-2015-04-02 11:35:10,922 DEBUG Encountered image: /img/search/search-magnify-d.gif
-2015-04-02 11:35:10,922 DEBUG Encountered image: /img/search/bottom-search-inside.gif
-2015-04-02 11:35:10,922 DEBUG Encountered link: http://www.unbiased.co.uk/standardlifebank
-2015-04-02 11:35:10,923 DEBUG Link stored
-2015-04-02 11:35:10,923 DEBUG Encountered image: /img/findanifaWhite.gif
-2015-04-02 11:35:10,923 DEBUG Encountered image: /img/insidestripc.gif
-2015-04-02 11:35:10,923 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,923 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,923 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,924 DEBUG Encountered image: /img/insidetopc.gif
-2015-04-02 11:35:10,924 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,924 DEBUG Encountered image: /img/banking-logon.gif
-2015-04-02 11:35:10,924 DEBUG Encountered image: /img/logondots-vertical.gif
-2015-04-02 11:35:10,924 DEBUG Encountered image: /img/reference-nt2.gif
-2015-04-02 11:35:10,924 DEBUG Encountered image: /img/password-nt2.gif
-2015-04-02 11:35:10,925 DEBUG Encountered image: /img/camcorner2.gif
-2015-04-02 11:35:10,925 DEBUG Encountered image: /img/squarecama.gif
-2015-04-02 11:35:10,925 DEBUG Encountered image: /img/squarecamb.gif
-2015-04-02 11:35:10,926 DEBUG Encountered image: /img/homedot.gif
-2015-04-02 11:35:10,926 DEBUG Encountered link: /page.php?id_link=358
-2015-04-02 11:35:10,926 DEBUG Link stored
-2015-04-02 11:35:10,926 DEBUG Encountered image: /img/help-nt.gif
-2015-04-02 11:35:10,926 DEBUG Encountered image: /img/homedot.gif
-2015-04-02 11:35:10,926 DEBUG Encountered link: page.php?id_link=347
-2015-04-02 11:35:10,926 DEBUG Link stored
-2015-04-02 11:35:10,926 DEBUG Encountered image: /img/terms&conditions-nt.gif
-2015-04-02 11:35:10,927 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,927 DEBUG Encountered image: /img/ourrates.gif
-2015-04-02 11:35:10,927 DEBUG Encountered link: /
-2015-04-02 11:35:10,927 DEBUG Link stored
-2015-04-02 11:35:10,927 DEBUG Encountered image: /img/indicator3.gif
-2015-04-02 11:35:10,928 DEBUG Encountered link: #mort1
-2015-04-02 11:35:10,928 DEBUG Link stored
-2015-04-02 11:35:10,928 DEBUG Encountered link: #rates2
-2015-04-02 11:35:10,928 DEBUG Link stored
-2015-04-02 11:35:10,928 DEBUG Encountered link: #rates3
-2015-04-02 11:35:10,928 DEBUG Link stored
-2015-04-02 11:35:10,928 DEBUG Encountered link: #rates6
-2015-04-02 11:35:10,928 DEBUG Link stored
-2015-04-02 11:35:10,929 DEBUG Encountered link: #rates7
-2015-04-02 11:35:10,929 DEBUG Link stored
-2015-04-02 11:35:10,929 DEBUG Encountered link: #rates8
-2015-04-02 11:35:10,929 DEBUG Link stored
-2015-04-02 11:35:10,929 DEBUG Encountered link: #rates9
-2015-04-02 11:35:10,929 DEBUG Link stored
-2015-04-02 11:35:10,929 DEBUG Encountered link: #rates5
-2015-04-02 11:35:10,929 DEBUG Link stored
-2015-04-02 11:35:10,930 DEBUG Encountered link: #rates3
-2015-04-02 11:35:10,930 DEBUG Link stored
-2015-04-02 11:35:10,930 DEBUG Encountered link: #rates4
-2015-04-02 11:35:10,930 DEBUG Link stored
-2015-04-02 11:35:10,930 DEBUG Encountered link: /page.php?id_link=450
-2015-04-02 11:35:10,930 DEBUG Link stored
-2015-04-02 11:35:10,930 DEBUG Encountered link: 
-2015-04-02 11:35:10,930 DEBUG Link stored
-2015-04-02 11:35:10,932 DEBUG Encountered link: page.php?id_link=495
-2015-04-02 11:35:10,932 DEBUG Link stored
-2015-04-02 11:35:10,932 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,932 DEBUG Link stored
-2015-04-02 11:35:10,932 DEBUG Encountered link: http://www.standardlifebank.co.uk/MortCalc/consumer95decide.jsp
-2015-04-02 11:35:10,932 DEBUG Link stored
-2015-04-02 11:35:10,934 DEBUG Encountered link: page.php?id_link=532
-2015-04-02 11:35:10,934 DEBUG Link stored
-2015-04-02 11:35:10,934 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,934 DEBUG Link stored
-2015-04-02 11:35:10,934 DEBUG Encountered link: http://www.standardlifebank.co.uk/MortCalc/consumer95decide.jsp
-2015-04-02 11:35:10,934 DEBUG Link stored
-2015-04-02 11:35:10,936 DEBUG Encountered link: page.php?id_link=644
-2015-04-02 11:35:10,936 DEBUG Link stored
-2015-04-02 11:35:10,936 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,936 DEBUG Link stored
-2015-04-02 11:35:10,936 DEBUG Encountered link: http://www.standardlifebank.co.uk/MortCalc/consumer95decide.jsp
-2015-04-02 11:35:10,936 DEBUG Link stored
-2015-04-02 11:35:10,937 DEBUG Encountered link: page.php?id_link=533
-2015-04-02 11:35:10,937 DEBUG Link stored
-2015-04-02 11:35:10,938 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,938 DEBUG Link stored
-2015-04-02 11:35:10,938 DEBUG Encountered link: http://www.standardlifebank.co.uk/MortCalc/consumer95decide.jsp
-2015-04-02 11:35:10,938 DEBUG Link stored
-2015-04-02 11:35:10,939 DEBUG Encountered link: page.php?id_link=531
-2015-04-02 11:35:10,939 DEBUG Link stored
-2015-04-02 11:35:10,940 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,940 DEBUG Link stored
-2015-04-02 11:35:10,940 DEBUG Encountered link: http://www.standardlifebank.co.uk/MortCalc/consumer95decide.jsp
-2015-04-02 11:35:10,940 DEBUG Link stored
-2015-04-02 11:35:10,941 DEBUG Encountered link: page.php?id_link=519
-2015-04-02 11:35:10,941 DEBUG Link stored
-2015-04-02 11:35:10,941 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,941 DEBUG Link stored
-2015-04-02 11:35:10,942 DEBUG Encountered link: page.php?id_link=531
-2015-04-02 11:35:10,942 DEBUG Link stored
-2015-04-02 11:35:10,942 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,942 DEBUG Link stored
-2015-04-02 11:35:10,942 DEBUG Encountered link: http://www.standardlifebank.co.uk/MortCalc/consumer95decide.jsp
-2015-04-02 11:35:10,942 DEBUG Link stored
-2015-04-02 11:35:10,943 DEBUG Encountered link: page.php?id_link=594
-2015-04-02 11:35:10,943 DEBUG Link stored
-2015-04-02 11:35:10,943 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,943 DEBUG Link stored
-2015-04-02 11:35:10,944 DEBUG Encountered link: page.php?id_link=594
-2015-04-02 11:35:10,944 DEBUG Link stored
-2015-04-02 11:35:10,944 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,945 DEBUG Link stored
-2015-04-02 11:35:10,946 DEBUG Encountered link: page.php?id_link=637
-2015-04-02 11:35:10,946 DEBUG Link stored
-2015-04-02 11:35:10,946 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,946 DEBUG Link stored
-2015-04-02 11:35:10,947 DEBUG Encountered link: page.php?id_link=510
-2015-04-02 11:35:10,947 DEBUG Link stored
-2015-04-02 11:35:10,947 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,947 DEBUG Link stored
-2015-04-02 11:35:10,947 DEBUG Encountered link: http://www.standardlifebank.co.uk/MortCalc/capitalrewarddecide.jsp
-2015-04-02 11:35:10,947 DEBUG Link stored
-2015-04-02 11:35:10,948 DEBUG Encountered link: page.php?id_link=595
-2015-04-02 11:35:10,948 DEBUG Link stored
-2015-04-02 11:35:10,949 DEBUG Encountered link: page.php?id_link=497
-2015-04-02 11:35:10,949 DEBUG Link stored
-2015-04-02 11:35:10,949 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,949 DEBUG Link stored
-2015-04-02 11:35:10,950 DEBUG Encountered link: page.php?id_link=514
-2015-04-02 11:35:10,950 DEBUG Link stored
-2015-04-02 11:35:10,951 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,951 DEBUG Link stored
-2015-04-02 11:35:10,951 DEBUG Encountered link: page.php?id_link=514
-2015-04-02 11:35:10,952 DEBUG Link stored
-2015-04-02 11:35:10,952 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,952 DEBUG Link stored
-2015-04-02 11:35:10,953 DEBUG Encountered link: page.php?id_link=514
-2015-04-02 11:35:10,953 DEBUG Link stored
-2015-04-02 11:35:10,953 DEBUG Encountered link: /page.php?id_link=517
-2015-04-02 11:35:10,953 DEBUG Link stored
-2015-04-02 11:35:10,953 DEBUG Encountered link: #top
-2015-04-02 11:35:10,953 DEBUG Link stored
-2015-04-02 11:35:10,953 DEBUG Encountered link: #top
-2015-04-02 11:35:10,953 DEBUG Link stored
-2015-04-02 11:35:10,953 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,954 DEBUG Encountered image: img/space.gif
-2015-04-02 11:35:10,954 DEBUG Encountered link: 
-2015-04-02 11:35:10,954 DEBUG Link stored
-2015-04-02 11:35:10,955 DEBUG Encountered link: page.php?id_link=498
-2015-04-02 11:35:10,956 DEBUG Link stored
-2015-04-02 11:35:10,956 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,956 DEBUG Encountered link: #top
-2015-04-02 11:35:10,956 DEBUG Link stored
-2015-04-02 11:35:10,956 DEBUG Encountered link: #top
-2015-04-02 11:35:10,956 DEBUG Link stored
-2015-04-02 11:35:10,956 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,956 DEBUG Encountered link: 
-2015-04-02 11:35:10,956 DEBUG Link stored
-2015-04-02 11:35:10,958 DEBUG Encountered link: page.php?id_link=597
-2015-04-02 11:35:10,958 DEBUG Link stored
-2015-04-02 11:35:10,958 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,959 DEBUG Encountered link: #top
-2015-04-02 11:35:10,959 DEBUG Link stored
-2015-04-02 11:35:10,959 DEBUG Encountered link: #top
-2015-04-02 11:35:10,959 DEBUG Link stored
-2015-04-02 11:35:10,959 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,959 DEBUG Encountered link: 
-2015-04-02 11:35:10,959 DEBUG Link stored
-2015-04-02 11:35:10,960 DEBUG Encountered link: page.php?id_link=501
-2015-04-02 11:35:10,961 DEBUG Link stored
-2015-04-02 11:35:10,961 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,961 DEBUG Encountered link: #top
-2015-04-02 11:35:10,961 DEBUG Link stored
-2015-04-02 11:35:10,961 DEBUG Encountered link: #top
-2015-04-02 11:35:10,961 DEBUG Link stored
-2015-04-02 11:35:10,961 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,962 DEBUG Encountered link: 
-2015-04-02 11:35:10,962 DEBUG Link stored
-2015-04-02 11:35:10,963 DEBUG Encountered link: page.php?id_link=501
-2015-04-02 11:35:10,963 DEBUG Link stored
-2015-04-02 11:35:10,963 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,963 DEBUG Encountered link: #top
-2015-04-02 11:35:10,963 DEBUG Link stored
-2015-04-02 11:35:10,964 DEBUG Encountered link: #top
-2015-04-02 11:35:10,964 DEBUG Link stored
-2015-04-02 11:35:10,964 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,964 DEBUG Encountered link: 
-2015-04-02 11:35:10,964 DEBUG Link stored
-2015-04-02 11:35:10,966 DEBUG Encountered link: page.php?id_link=502
-2015-04-02 11:35:10,966 DEBUG Link stored
-2015-04-02 11:35:10,966 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,966 DEBUG Encountered link: #top
-2015-04-02 11:35:10,966 DEBUG Link stored
-2015-04-02 11:35:10,966 DEBUG Encountered link: #top
-2015-04-02 11:35:10,966 DEBUG Link stored
-2015-04-02 11:35:10,967 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,967 DEBUG Encountered link: 
-2015-04-02 11:35:10,967 DEBUG Link stored
-2015-04-02 11:35:10,968 DEBUG Encountered link: page.php?id_link=502
-2015-04-02 11:35:10,968 DEBUG Link stored
-2015-04-02 11:35:10,969 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,969 DEBUG Encountered link: #top
-2015-04-02 11:35:10,969 DEBUG Link stored
-2015-04-02 11:35:10,969 DEBUG Encountered link: #top
-2015-04-02 11:35:10,969 DEBUG Link stored
-2015-04-02 11:35:10,969 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,969 DEBUG Encountered link: 
-2015-04-02 11:35:10,970 DEBUG Link stored
-2015-04-02 11:35:10,972 DEBUG Encountered link: page.php?id_link=499
-2015-04-02 11:35:10,972 DEBUG Link stored
-2015-04-02 11:35:10,973 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,973 DEBUG Encountered link: #top
-2015-04-02 11:35:10,973 DEBUG Link stored
-2015-04-02 11:35:10,973 DEBUG Encountered link: #top
-2015-04-02 11:35:10,973 DEBUG Link stored
-2015-04-02 11:35:10,973 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,973 DEBUG Encountered link: 
-2015-04-02 11:35:10,973 DEBUG Link stored
-2015-04-02 11:35:10,974 DEBUG Encountered link: page.php?id_link=499
-2015-04-02 11:35:10,974 DEBUG Link stored
-2015-04-02 11:35:10,975 DEBUG Encountered image: /img/gosmallyellow.gif
-2015-04-02 11:35:10,975 DEBUG Encountered link: #top
-2015-04-02 11:35:10,975 DEBUG Link stored
-2015-04-02 11:35:10,975 DEBUG Encountered link: #top
-2015-04-02 11:35:10,975 DEBUG Link stored
-2015-04-02 11:35:10,975 DEBUG Encountered image: /img/top.gif
-2015-04-02 11:35:10,976 DEBUG Encountered link: /page.php?id_link=346
-2015-04-02 11:35:10,976 DEBUG Link stored
-2015-04-02 11:35:10,976 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,976 DEBUG Encountered image: /img/postit_phonegirl.jpg
-2015-04-02 11:35:10,976 DEBUG Encountered image: /img/66.gif
-2015-04-02 11:35:10,977 DEBUG Encountered image: /img/99.gif
-2015-04-02 11:35:10,977 DEBUG Encountered image: img/navbottom.gif
-2015-04-02 11:35:10,977 DEBUG Encountered image: img/navtop.gif
-2015-04-02 11:35:10,977 DEBUG Encountered image: /img/smallnb.gif
-2015-04-02 11:35:10,977 DEBUG Encountered link: /page.php?id_link=450
-2015-04-02 11:35:10,977 DEBUG Link stored
-2015-04-02 11:35:10,977 DEBUG Encountered image: img/navbottom.gif
-2015-04-02 11:35:10,978 DEBUG Encountered image: /img/space.gif
-2015-04-02 11:35:10,978 DEBUG Encountered image: http://server-uk.imrworldwide.com/cgi-bin/count?cid=uk_standardlife_0
-2015-04-02 11:35:10,978 DEBUG Processing finished.
-2015-04-02 11:35:10,980 DEBUG Parse succeeded
-2015-04-02 11:35:10,980 DEBUG Creating parser
-2015-04-02 11:35:10,981 INFO Requesting document 2
-2015-04-02 11:35:10,981 DEBUG Parsing document
-2015-04-02 11:35:10,981 INFO Parsing with parameters:
-2015-04-02 11:35:10,981 INFO Train: 1
-2015-04-02 11:35:10,982 INFO Processing (0 - None, 1 - Stemming, 2 - gramm): 1
-2015-04-02 11:35:10,982 INFO Gramm number: 3
-2015-04-02 11:35:10,982 INFO Convert encodings: 1
-2015-04-02 11:35:10,982 INFO Encoding: UTF-8
-2015-04-02 11:35:10,983 DEBUG Starting parser
-2015-04-02 11:35:10,983 DEBUG Getting contexts
-2015-04-02 11:35:10,983 DEBUG Initializing case converter and stop-words database.
-2015-04-02 11:35:10,985 DEBUG Initializing dictionary.
-2015-04-02 11:35:10,985 DEBUG Creating parsing pipe.
-2015-04-02 11:35:10,985 DEBUG Processing text...
-2015-04-02 11:35:11,006 DEBUG Encountered link: 
-2015-04-02 11:35:11,006 DEBUG Link stored
-2015-04-02 11:35:11,006 DEBUG Encountered link: /entrancegeneric/ShowWorldSeOnly.asp?lngWId=2
-2015-04-02 11:35:11,006 DEBUG Link stored
-2015-04-02 11:35:11,006 DEBUG Encountered image: /vb/images/placeholder.gif
-2015-04-02 11:35:11,006 DEBUG Encountered link: /vb/jobs/ListJobs.asp?txtDescription=&chkSearchKeywordId=5%2C+9%2C+8%2C+6%2C+13%2C+3%2C+4%2C+12%2C+10%2C+11%2C+14%2C+2&txtCity=&cmbStates=ALL%2CUS&cmSearch=Find+Jobs&chkSalary=1%2C+2%2C+3%2C+4%2C+5%2C+6&blnResetAllVariables=true&lngWId=2
-2015-04-02 11:35:11,006 DEBUG Link stored
-2015-04-02 11:35:11,007 DEBUG Encountered image: /vb/images/placeholder.gif
-2015-04-02 11:35:11,008 DEBUG Encountered link: /
-2015-04-02 11:35:11,008 DEBUG Link stored
-2015-04-02 11:35:11,008 DEBUG Encountered image: /vb/images/logos/1JavaStreet.jpg
-2015-04-02 11:35:11,009 DEBUG Encountered link: javascript:ShowMenu('Code_Articles', '176px', '65px', false)
-2015-04-02 11:35:11,009 DEBUG Link stored
-2015-04-02 11:35:11,009 DEBUG Encountered link: javascript:ShowMenu('Newest_and_Best', '288px', '65px', false)
-2015-04-02 11:35:11,009 DEBUG Link stored
-2015-04-02 11:35:11,009 DEBUG Encountered link: javascript:ShowMenu('Community', '396px', '65px', false)
-2015-04-02 11:35:11,009 DEBUG Link stored
-2015-04-02 11:35:11,009 DEBUG Encountered link: javascript:ShowMenu('Jobs', '493px', '65px', false)
-2015-04-02 11:35:11,009 DEBUG Link stored
-2015-04-02 11:35:11,010 DEBUG Encountered link: javascript:ShowMenu('Other', '552px', '65px', false)
-2015-04-02 11:35:11,010 DEBUG Link stored
-2015-04-02 11:35:11,010 DEBUG Encountered link: javascript:ShowMenu('Goto', '619px', '65px', false)
-2015-04-02 11:35:11,010 DEBUG Link stored
-2015-04-02 11:35:11,010 DEBUG Encountered image: /vb/images/iconbar/IconBar_01.gif
-2015-04-02 11:35:11,010 DEBUG Encountered image: /vb/images/iconbar/IconBar_02.gif
-2015-04-02 11:35:11,010 DEBUG Encountered link: /vb/scripts/BrowseAllCategories.asp?lngWId=2;" 
-2015-04-02 11:35:11,011 DEBUG Link stored
-2015-04-02 11:35:11,011 DEBUG Encountered image: /vb/images/iconbar/Categories.gif
-2015-04-02 11:35:11,011 DEBUG Encountered link: /vb/scripts/search.asp?lngWId=2;" 
-2015-04-02 11:35:11,011 DEBUG Link stored
-2015-04-02 11:35:11,011 DEBUG Encountered image: /vb/images/iconbar/Search.gif
-2015-04-02 11:35:11,011 DEBUG Encountered link: /vb/scripts/BrowseCategoryOrSearchResults.asp?grpCategories=-1&optSort=DateDescending&txtMaxNumberOfEntriesPerPage=10&blnNewestCode=TRUE&blnResetAllVariables=TRUE&lngWId=2;" 
-2015-04-02 11:35:11,011 DEBUG Link stored
-2015-04-02 11:35:11,011 DEBUG Encountered image: /vb/images/iconbar/Newest-Code.gif
-2015-04-02 11:35:11,011 DEBUG Encountered link: /vb/contest/ContestInfo.asp?lngWId=2;" 
-2015-04-02 11:35:11,012 DEBUG Link stored
-2015-04-02 11:35:11,012 DEBUG Encountered image: /vb/images/iconbar/Coding-Contest.gif
-2015-04-02 11:35:11,012 DEBUG Encountered link: /vb/CodeOfTheDay/signup.asp?lngWId=2;" 
-2015-04-02 11:35:11,012 DEBUG Link stored
-2015-04-02 11:35:11,012 DEBUG Encountered image: /vb/images/iconbar/Code-of-the-Day.gif
-2015-04-02 11:35:11,012 DEBUG Encountered link: /vb/discussion/default.asp?lngWId=2;" 
-2015-04-02 11:35:11,012 DEBUG Link stored
-2015-04-02 11:35:11,012 DEBUG Encountered image: /vb/images/iconbar/Ask-A-Pro.gif
-2015-04-02 11:35:11,012 DEBUG Encountered link: /vb/jobs/SearchJobs.asp?lngWId=2;" 
-2015-04-02 11:35:11,012 DEBUG Link stored
-2015-04-02 11:35:11,012 DEBUG Encountered image: /vb/images/iconbar/Jobs_Unique.gif
-2015-04-02 11:35:11,013 DEBUG Encountered link: /vb/authors/determine_author_type.asp?lngWId=2;" 
-2015-04-02 11:35:11,013 DEBUG Link stored
-2015-04-02 11:35:11,013 DEBUG Encountered image: /vb/images/iconbar/Upload.gif
-2015-04-02 11:35:11,013 DEBUG Encountered image: /vb/images/iconbar/IconBar_11.gif
-2015-04-02 11:35:11,013 DEBUG Encountered image: /vb/images/iconbar/IconBar_12.gif
-2015-04-02 11:35:11,013 DEBUG Encountered link: /vb/default.asp?lngWId=2
-2015-04-02 11:35:11,013 DEBUG Link stored
-2015-04-02 11:35:11,013 DEBUG Encountered link: /vb/scripts/BrowseAllCategories.asp?lngWId=2
-2015-04-02 11:35:11,014 DEBUG Link stored
-2015-04-02 11:35:11,014 DEBUG Encountered link: /vb/jobs/SearchJobs.asp?lngWId=2
-2015-04-02 11:35:11,014 DEBUG Link stored
-2015-04-02 11:35:11,014 DEBUG Encountered link: /vb/advertisement/scripts/rates.asp?lngWId=-1
-2015-04-02 11:35:11,014 DEBUG Link stored
-2015-04-02 11:35:11,015 DEBUG Encountered link: /vb/authentication/Login.asp?txtReturnURL=%2Fvb%2Fadvertisement%2Fscripts%2Frates%2Easp%3FlngWId%3D2
-2015-04-02 11:35:11,015 DEBUG Link stored
-2015-04-02 11:35:11,015 DEBUG Encountered link: http://www.hypertracker.com/go/artifactsoftware/pscbutton
-2015-04-02 11:35:11,015 DEBUG Link stored
-2015-04-02 11:35:11,015 DEBUG Encountered image: /Ads/images/psc/ArtifactSoftware/Artifact125x125_Button.gif
-2015-04-02 11:35:11,015 DEBUG Encountered link: 
-2015-04-02 11:35:11,015 DEBUG Link stored
-2015-04-02 11:35:11,016 DEBUG Encountered link: 
-2015-04-02 11:35:11,016 DEBUG Link stored
-2015-04-02 11:35:11,016 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3061&lngWId=2
-2015-04-02 11:35:11,016 DEBUG Link stored
-2015-04-02 11:35:11,016 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3060&lngWId=2
-2015-04-02 11:35:11,016 DEBUG Link stored
-2015-04-02 11:35:11,017 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3059&lngWId=2
-2015-04-02 11:35:11,017 DEBUG Link stored
-2015-04-02 11:35:11,017 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3058&lngWId=2
-2015-04-02 11:35:11,017 DEBUG Link stored
-2015-04-02 11:35:11,017 DEBUG Encountered link: http://www.exhedra.com/upload/ScreenShots/PIC20027151550147207.jpg
-2015-04-02 11:35:11,017 DEBUG Link stored
-2015-04-02 11:35:11,018 DEBUG Encountered image: /vb/images/ScreenShotIcon.gif
-2015-04-02 11:35:11,018 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3057&lngWId=2
-2015-04-02 11:35:11,018 DEBUG Link stored
-2015-04-02 11:35:11,018 DEBUG Encountered link: http://www.exhedra.com/upload/ScreenShots/PIC20027151550147207.jpg
-2015-04-02 11:35:11,018 DEBUG Link stored
-2015-04-02 11:35:11,018 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3056&lngWId=2
-2015-04-02 11:35:11,018 DEBUG Link stored
-2015-04-02 11:35:11,019 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3055&lngWId=2
-2015-04-02 11:35:11,019 DEBUG Link stored
-2015-04-02 11:35:11,019 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3054&lngWId=2
-2015-04-02 11:35:11,019 DEBUG Link stored
-2015-04-02 11:35:11,019 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=3053&lngWId=2
-2015-04-02 11:35:11,019 DEBUG Link stored
-2015-04-02 11:35:11,020 DEBUG Encountered link: /vb/LinkToUs/default.asp?lngWId=2#NewCodeTicker
-2015-04-02 11:35:11,020 DEBUG Link stored
-2015-04-02 11:35:11,020 DEBUG Encountered link: /vb/LinkToUs/default.asp?lngWId=2#NewCodeTicker
-2015-04-02 11:35:11,020 DEBUG Link stored
-2015-04-02 11:35:11,020 DEBUG Encountered link: /vb/channel/NewCode/channel.cdf
-2015-04-02 11:35:11,020 DEBUG Link stored
-2015-04-02 11:35:11,020 DEBUG Encountered image: /vb/channel/AddtoActiveDesktop.jpg
-2015-04-02 11:35:11,020 DEBUG Encountered link: /vb/channel/NewCode/channel.cdf
-2015-04-02 11:35:11,020 DEBUG Link stored
-2015-04-02 11:35:11,021 DEBUG Encountered link: /vb/CodeOfTheDay/signup.asp?lngWId=2
-2015-04-02 11:35:11,021 DEBUG Link stored
-2015-04-02 11:35:11,021 DEBUG Encountered image: /vb/CodeOfTheDay/images/CodeOfTheDayMailbox.gif
-2015-04-02 11:35:11,021 DEBUG Encountered link: /vb/CodeOfTheDay/signup.asp?lngWId=2
-2015-04-02 11:35:11,021 DEBUG Link stored
-2015-04-02 11:35:11,021 DEBUG Encountered link: /vb/CodeOfTheDay/signup.asp?lngWId=2
-2015-04-02 11:35:11,021 DEBUG Link stored
-2015-04-02 11:35:11,022 DEBUG Encountered link: http://www.ArtifactSoftware.com
-2015-04-02 11:35:11,022 DEBUG Link stored
-2015-04-02 11:35:11,022 DEBUG Encountered link: http://www.DevArticles.com
-2015-04-02 11:35:11,022 DEBUG Link stored
-2015-04-02 11:35:11,022 DEBUG Encountered link: http://www.RentACoder.com
-2015-04-02 11:35:11,022 DEBUG Link stored
-2015-04-02 11:35:11,022 DEBUG Encountered link: http://www.vbexplorer.com
-2015-04-02 11:35:11,022 DEBUG Link stored
-2015-04-02 11:35:11,023 DEBUG Encountered link: /vb/scripts/ShowCode.asp?txtCodeId=7164&amp;lngWId=4
-2015-04-02 11:35:11,023 DEBUG Link stored
-2015-04-02 11:35:11,023 DEBUG Encountered image: /Ads/images/psc/PipeBoost/AcceleratedByPipeboost.gif
-2015-04-02 11:35:11,023 DEBUG Encountered link: /vb/advertisement/MediaKit/MediaKit.doc
-2015-04-02 11:35:11,023 DEBUG Link stored
-2015-04-02 11:35:11,024 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/ManAtLaptop.jpg
-2015-04-02 11:35:11,024 DEBUG Encountered link: http://www.1JavaStreet.com/
-2015-04-02 11:35:11,024 DEBUG Link stored
-2015-04-02 11:35:11,024 DEBUG Encountered link: /vb/about/Awards.asp?lngWId=2
-2015-04-02 11:35:11,024 DEBUG Link stored
-2015-04-02 11:35:11,025 DEBUG Encountered link: #Three Reasons to Choose 1 Java Street
-2015-04-02 11:35:11,025 DEBUG Link stored
-2015-04-02 11:35:11,025 DEBUG Encountered link: #Competitive Analysis
-2015-04-02 11:35:11,025 DEBUG Link stored
-2015-04-02 11:35:11,025 DEBUG Encountered link: #Demographic Report
-2015-04-02 11:35:11,025 DEBUG Link stored
-2015-04-02 11:35:11,025 DEBUG Encountered link: #Ad Rates
-2015-04-02 11:35:11,025 DEBUG Link stored
-2015-04-02 11:35:11,025 DEBUG Encountered link: #Sign Up
-2015-04-02 11:35:11,025 DEBUG Link stored
-2015-04-02 11:35:11,026 DEBUG Encountered link: /ads/stats/AdStats.asp?lngWId=2
-2015-04-02 11:35:11,026 DEBUG Link stored
-2015-04-02 11:35:11,026 DEBUG Encountered link: 
-2015-04-02 11:35:11,026 DEBUG Link stored
-2015-04-02 11:35:11,027 DEBUG Encountered link: /vb/about/Awards.asp?lngWId=2
-2015-04-02 11:35:11,027 DEBUG Link stored
-2015-04-02 11:35:11,028 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/gorilla.jpg
-2015-04-02 11:35:11,028 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/ManLookingAtScreen.jpg
-2015-04-02 11:35:11,029 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/ManBeingTargeted.jpg
-2015-04-02 11:35:11,029 DEBUG Encountered link: 
-2015-04-02 11:35:11,029 DEBUG Link stored
-2015-04-02 11:35:11,029 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/KingOnChessboard.gif
-2015-04-02 11:35:11,030 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/KingOnChessboard.gif
-2015-04-02 11:35:11,032 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/KingOnChessboard.gif
-2015-04-02 11:35:11,034 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/KingOnChessboard.gif
-2015-04-02 11:35:11,035 DEBUG Encountered link: 
-2015-04-02 11:35:11,035 DEBUG Link stored
-2015-04-02 11:35:11,036 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,036 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/1.gif
-2015-04-02 11:35:11,036 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,036 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/0.gif
-2015-04-02 11:35:11,036 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,037 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/1.gif
-2015-04-02 11:35:11,037 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,037 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/4.gif
-2015-04-02 11:35:11,037 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,037 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/11.gif
-2015-04-02 11:35:11,038 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,038 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/26.gif
-2015-04-02 11:35:11,038 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,038 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/29.gif
-2015-04-02 11:35:11,038 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,038 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/26.gif
-2015-04-02 11:35:11,039 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,039 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/2.gif
-2015-04-02 11:35:11,039 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,040 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/86.gif
-2015-04-02 11:35:11,040 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,040 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/10.gif
-2015-04-02 11:35:11,040 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,040 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/4.gif
-2015-04-02 11:35:11,041 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,041 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/20.gif
-2015-04-02 11:35:11,041 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,041 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/9.gif
-2015-04-02 11:35:11,042 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,042 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/25.gif
-2015-04-02 11:35:11,042 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,042 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/28.gif
-2015-04-02 11:35:11,042 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,043 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/5.gif
-2015-04-02 11:35:11,043 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,043 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/7.gif
-2015-04-02 11:35:11,043 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,043 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/6.gif
-2015-04-02 11:35:11,044 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,044 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/13.gif
-2015-04-02 11:35:11,044 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,044 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/10.gif
-2015-04-02 11:35:11,045 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,045 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/15.gif
-2015-04-02 11:35:11,045 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,045 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/14.gif
-2015-04-02 11:35:11,045 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,046 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/14.gif
-2015-04-02 11:35:11,046 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,046 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/11.gif
-2015-04-02 11:35:11,046 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,046 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/23.gif
-2015-04-02 11:35:11,047 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,047 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/4.gif
-2015-04-02 11:35:11,047 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,047 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/3.gif
-2015-04-02 11:35:11,048 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,048 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/22.gif
-2015-04-02 11:35:11,048 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,048 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/33.gif
-2015-04-02 11:35:11,048 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,049 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/1.gif
-2015-04-02 11:35:11,049 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,049 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/1.gif
-2015-04-02 11:35:11,049 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,049 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/3.gif
-2015-04-02 11:35:11,050 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,050 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/1.gif
-2015-04-02 11:35:11,050 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,050 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/28.gif
-2015-04-02 11:35:11,050 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,051 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/0.gif
-2015-04-02 11:35:11,051 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,051 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/2.gif
-2015-04-02 11:35:11,051 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,051 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/2.gif
-2015-04-02 11:35:11,052 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,052 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/55.gif
-2015-04-02 11:35:11,052 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,052 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/45.gif
-2015-04-02 11:35:11,053 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,053 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/62.gif
-2015-04-02 11:35:11,053 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,053 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/38.gif
-2015-04-02 11:35:11,054 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,054 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/8.gif
-2015-04-02 11:35:11,054 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,054 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/13.gif
-2015-04-02 11:35:11,055 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,055 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/15.gif
-2015-04-02 11:35:11,055 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,055 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/24.gif
-2015-04-02 11:35:11,056 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,056 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/26.gif
-2015-04-02 11:35:11,056 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,056 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/15.gif
-2015-04-02 11:35:11,057 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,057 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/40.gif
-2015-04-02 11:35:11,057 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,057 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/17.gif
-2015-04-02 11:35:11,058 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,058 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/22.gif
-2015-04-02 11:35:11,058 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,058 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/13.gif
-2015-04-02 11:35:11,058 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,058 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/6.gif
-2015-04-02 11:35:11,059 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,059 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/2.gif
-2015-04-02 11:35:11,059 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,060 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/22.gif
-2015-04-02 11:35:11,060 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,060 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/30.gif
-2015-04-02 11:35:11,060 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,060 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/10.gif
-2015-04-02 11:35:11,061 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,061 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/9.gif
-2015-04-02 11:35:11,061 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,061 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/4.gif
-2015-04-02 11:35:11,061 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,062 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/4.gif
-2015-04-02 11:35:11,062 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/spacer_transparent.gif
-2015-04-02 11:35:11,062 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/SurveyBars/21.gif
-2015-04-02 11:35:11,062 DEBUG Encountered link: 
-2015-04-02 11:35:11,062 DEBUG Link stored
-2015-04-02 11:35:11,064 DEBUG Encountered image: /vb/advertisement/MediaKit/HTMLConvert/images/Screenshot.jpg
-2015-04-02 11:35:11,065 DEBUG Encountered link: http://www.exhedra.com/vb/default.asp?intAdId=77&amp;lngWId=1
-2015-04-02 11:35:11,065 DEBUG Link stored
-2015-04-02 11:35:11,067 DEBUG Encountered link: http://www.1JavaStreet.com/vb/default.asp?lngCId=3592&amp;lngWId=1
-2015-04-02 11:35:11,067 DEBUG Link stored
-2015-04-02 11:35:11,067 DEBUG Encountered link: 
-2015-04-02 11:35:11,067 DEBUG Link stored
-2015-04-02 11:35:11,067 DEBUG Encountered link: http://msdn.microsoft.com/default.asp
-2015-04-02 11:35:11,068 DEBUG Link stored
-2015-04-02 11:35:11,068 DEBUG Encountered link: http://www.netscape.com
-2015-04-02 11:35:11,068 DEBUG Link stored
-2015-04-02 11:35:11,068 DEBUG Encountered link: http://www.rackspace.com
-2015-04-02 11:35:11,068 DEBUG Link stored
-2015-04-02 11:35:11,068 DEBUG Encountered link: /vb/feedback/feedback.asp?lngWId=2
-2015-04-02 11:35:11,068 DEBUG Link stored
-2015-04-02 11:35:11,069 DEBUG Encountered link: mailto:sales@exhedra.com
-2015-04-02 11:35:11,069 DEBUG Link stored
-2015-04-02 11:35:11,069 DEBUG Encountered link: 
-2015-04-02 11:35:11,069 DEBUG Link stored
-2015-04-02 11:35:11,069 DEBUG Encountered link: /ads/stats/AdStats.asp?lngWId=2
-2015-04-02 11:35:11,069 DEBUG Link stored
-2015-04-02 11:35:11,070 DEBUG Encountered link: /vb/scripts/BrowseAllCategories.asp?lngWId=2
-2015-04-02 11:35:11,070 DEBUG Link stored
-2015-04-02 11:35:11,070 DEBUG Encountered link: /vb/Tutorial/default.asp?lngWId=2
-2015-04-02 11:35:11,070 DEBUG Link stored
-2015-04-02 11:35:11,070 DEBUG Encountered link: /vb/scripts/search.asp?lngWId=2
-2015-04-02 11:35:11,070 DEBUG Link stored
-2015-04-02 11:35:11,071 DEBUG Encountered link: /vb/Bookstore/default.asp?lngWId=2
-2015-04-02 11:35:11,071 DEBUG Link stored
-2015-04-02 11:35:11,071 DEBUG Encountered link: /vb/authors/determine_author_type.asp?lngWId=2
-2015-04-02 11:35:11,071 DEBUG Link stored
-2015-04-02 11:35:11,071 DEBUG Encountered link: /vb/scripts/BrowseCategoryOrSearchResults.asp?grpCategories=-1&optSort=DateDescending&txtMaxNumberOfEntriesPerPage=10&blnNewestCode=TRUE&blnResetAllVariables=TRUE&lngWId=2
-2015-04-02 11:35:11,071 DEBUG Link stored
-2015-04-02 11:35:11,071 DEBUG Encountered link: /vb/contest/ContestAndLeaderBoard.asp?lngWId=2
-2015-04-02 11:35:11,071 DEBUG Link stored
-2015-04-02 11:35:11,071 DEBUG Encountered link: /vb/CodeOfTheDay/signup.asp?lngWId=2
-2015-04-02 11:35:11,072 DEBUG Link stored
-2015-04-02 11:35:11,072 DEBUG Encountered link: /vb/scripts/BrowseCategoryOrSearchResults.asp?grpCategories=-1&txtMaxNumberOfEntriesPerPage=10&blnTopCode=True&blnResetAllVariables=TRUE&lngWId=2
-2015-04-02 11:35:11,072 DEBUG Link stored
-2015-04-02 11:35:11,072 DEBUG Encountered link: /vb/contest/ContestInfo.asp?lngWId=2
-2015-04-02 11:35:11,072 DEBUG Link stored
-2015-04-02 11:35:11,072 DEBUG Encountered link: /vb/jobs/SearchJobs.asp?lngWId=2
-2015-04-02 11:35:11,072 DEBUG Link stored
-2015-04-02 11:35:11,072 DEBUG Encountered link: /vb/jobs/PostJob.asp?lngWId=2
-2015-04-02 11:35:11,072 DEBUG Link stored
-2015-04-02 11:35:11,073 DEBUG Encountered link: /vb/discussion/default.asp?lngWId=2
-2015-04-02 11:35:11,073 DEBUG Link stored
-2015-04-02 11:35:11,073 DEBUG Encountered link: /vb/chat/chat.asp?lngWId=2
-2015-04-02 11:35:11,073 DEBUG Link stored
-2015-04-02 11:35:11,073 DEBUG Encountered link: /vb/feedback/feedback.asp?lngWId=2
-2015-04-02 11:35:11,073 DEBUG Link stored
-2015-04-02 11:35:11,073 DEBUG Encountered link: /vb/authentication/MyPlanetSourceCode/CustomizeInfo.asp?lngWId=2
-2015-04-02 11:35:11,073 DEBUG Link stored
-2015-04-02 11:35:11,073 DEBUG Encountered link: /vb/default.asp?lngWId=2
-2015-04-02 11:35:11,073 DEBUG Link stored
-2015-04-02 11:35:11,074 DEBUG Encountered link: /default.asp?lngWId=
-2015-04-02 11:35:11,074 DEBUG Link stored
-2015-04-02 11:35:11,074 DEBUG Encountered link: /vb/scripts/OtherLinks.asp?lngWId=2
-2015-04-02 11:35:11,074 DEBUG Link stored
-2015-04-02 11:35:11,074 DEBUG Encountered link: /vb/about/AboutTheSiteAndAuthor.asp?lngWId=2
-2015-04-02 11:35:11,074 DEBUG Link stored
-2015-04-02 11:35:11,074 DEBUG Encountered link: /vb/feedback/feedback.asp?lngWId=2
-2015-04-02 11:35:11,074 DEBUG Link stored
-2015-04-02 11:35:11,074 DEBUG Encountered link: /vb/LinkToUs/default.asp?lngWId=2
-2015-04-02 11:35:11,074 DEBUG Link stored
-2015-04-02 11:35:11,075 DEBUG Encountered link: /vb/about/Awards.asp?lngWId=2
-2015-04-02 11:35:11,075 DEBUG Link stored
-2015-04-02 11:35:11,075 DEBUG Encountered link: /vb/advertisement/scripts/rates.asp?lngWId=2
-2015-04-02 11:35:11,075 DEBUG Link stored
-2015-04-02 11:35:11,075 DEBUG Encountered link: /vb/scripts/privacy.asp?lngWId=2
-2015-04-02 11:35:11,075 DEBUG Link stored
-2015-04-02 11:35:11,075 DEBUG Encountered link: http://www.exhedra.com
-2015-04-02 11:35:11,075 DEBUG Link stored
-2015-04-02 11:35:11,076 DEBUG Encountered link: /vb/scripts/TermsAndConditions.asp?lngWId=2
-2015-04-02 11:35:11,076 DEBUG Link stored
-2015-04-02 11:35:11,076 DEBUG Processing finished.
-2015-04-02 11:35:11,077 DEBUG Parse succeeded
-2015-04-02 11:35:11,077 DEBUG Creating measure
-2015-04-02 11:35:11,077 DEBUG Preloading frequency measure.
-2015-04-02 11:35:11,095 DEBUG Preloading complete.
-2015-04-02 11:35:11,095 DEBUG Starting train. Number of topics=3
-2015-04-02 11:35:11,096 INFO Number Of Topics =3
-2015-04-02 11:35:11,096 INFO Number Of Binary Problems =6
-2015-04-02 11:35:11,096 INFO Multiclass decomposition type =ONE_VS_ONE
-2015-04-02 11:35:11,096 INFO Decomposition Matrix
-2015-04-02 11:35:11,096 INFO 1 -1 0 
-2015-04-02 11:35:11,096 INFO 1 0 -1 
-2015-04-02 11:35:11,096 INFO 0 1 -1 
-2015-04-02 11:35:11,096 INFO 0 -1 1 
-2015-04-02 11:35:11,096 INFO -1 0 1 
-2015-04-02 11:35:11,096 INFO -1 1 0 
-2015-04-02 11:35:11,098 INFO Number of SV=3
-2015-04-02 11:35:11,098 DEBUG Train finished.
-2015-04-02 11:35:11,100 DEBUG Loading parameters
-2015-04-02 11:35:11,102 DEBUG Creating parser
-2015-04-02 11:35:11,102 DEBUG Creating measure
-2015-04-02 11:35:11,102 DEBUG Creating measure
-2015-04-02 11:35:11,102 DEBUG Creating classifier
-2015-04-02 11:35:11,102 DEBUG Parsing content
-2015-04-02 11:35:11,102 INFO Parsing with parameters:
-2015-04-02 11:35:11,102 INFO Train: 0
-2015-04-02 11:35:11,102 INFO Processing (0 - None, 1 - Stemming, 2 - gramm): 1
-2015-04-02 11:35:11,103 INFO Gramm number: 3
-2015-04-02 11:35:11,103 INFO Convert encodings: 1
-2015-04-02 11:35:11,103 INFO Encoding: UTF-8
-2015-04-02 11:35:11,103 DEBUG Starting parser
-2015-04-02 11:35:11,103 DEBUG Getting contexts
-2015-04-02 11:35:11,103 DEBUG Initializing case converter and stop-words database.
-2015-04-02 11:35:11,103 DEBUG Initializing dictionary.
-2015-04-02 11:35:11,104 DEBUG Creating parsing pipe.
-2015-04-02 11:35:11,104 DEBUG Processing text...
-2015-04-02 11:35:11,104 DEBUG Encountered link: 
-2015-04-02 11:35:11,104 DEBUG Link stored
-2015-04-02 11:35:11,105 DEBUG Encountered link: /sethome.asp?ubhome=none
-2015-04-02 11:35:11,105 DEBUG Link stored
-2015-04-02 11:35:11,105 DEBUG Encountered image: /static/common/ublogo.gif
-2015-04-02 11:35:11,105 DEBUG Encountered image: /static/common/ptop-mstrip.gif
-2015-04-02 11:35:11,105 DEBUG Encountered image: /static/common/bi_left_corner.gif
-2015-04-02 11:35:11,105 DEBUG Encountered link: charges.asp
-2015-04-02 11:35:11,105 DEBUG Link stored
-2015-04-02 11:35:11,106 DEBUG Encountered link: /new/ni/products/ni_interest_rates.asp
-2015-04-02 11:35:11,106 DEBUG Link stored
-2015-04-02 11:35:11,106 DEBUG Encountered link: branches.asp
-2015-04-02 11:35:11,106 DEBUG Link stored
-2015-04-02 11:35:11,106 DEBUG Encountered link: news.asp
-2015-04-02 11:35:11,106 DEBUG Link stored
-2015-04-02 11:35:11,106 DEBUG Encountered link: jobs.asp
-2015-04-02 11:35:11,106 DEBUG Link stored
-2015-04-02 11:35:11,107 DEBUG Encountered link: /sethome.asp?ubhome=none
-2015-04-02 11:35:11,107 DEBUG Link stored
-2015-04-02 11:35:11,107 DEBUG Encountered link: legal.asp
-2015-04-02 11:35:11,107 DEBUG Link stored
-2015-04-02 11:35:11,107 DEBUG Encountered link: feedback.asp
-2015-04-02 11:35:11,107 DEBUG Link stored
-2015-04-02 11:35:11,108 DEBUG Encountered image: /static/common/bi_right_corner.gif
-2015-04-02 11:35:11,108 DEBUG Encountered image: /static/common/top-sstrip-w.gif
-2015-04-02 11:35:11,108 DEBUG Encountered image: /static/common/strip.gif
-2015-04-02 11:35:11,108 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,108 DEBUG Encountered link: /new/ni/products/ni_p_current_accounts.asp
-2015-04-02 11:35:11,108 DEBUG Link stored
-2015-04-02 11:35:11,108 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,108 DEBUG Encountered link: si_selectorsave.asp
-2015-04-02 11:35:11,109 DEBUG Link stored
-2015-04-02 11:35:11,109 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,109 DEBUG Encountered link: /new/ni/hm/ni_hm_buying_a_home.asp
-2015-04-02 11:35:11,109 DEBUG Link stored
-2015-04-02 11:35:11,109 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,109 DEBUG Encountered link: creditcards.asp
-2015-04-02 11:35:11,109 DEBUG Link stored
-2015-04-02 11:35:11,109 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,109 DEBUG Encountered link: /new/ni/products/general_loans.asp
-2015-04-02 11:35:11,109 DEBUG Link stored
-2015-04-02 11:35:11,110 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,110 DEBUG Encountered link: graduates.asp
-2015-04-02 11:35:11,110 DEBUG Link stored
-2015-04-02 11:35:11,110 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,110 DEBUG Encountered link: students.asp
-2015-04-02 11:35:11,110 DEBUG Link stored
-2015-04-02 11:35:11,110 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,110 DEBUG Encountered link: pensionslifeassurance.asp
-2015-04-02 11:35:11,110 DEBUG Link stored
-2015-04-02 11:35:11,110 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,111 DEBUG Encountered link: /new/ni/products/insurance_general.asp
-2015-04-02 11:35:11,111 DEBUG Link stored
-2015-04-02 11:35:11,111 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,111 DEBUG Encountered link: /new/ni/emu/people/emu_overview.asp
-2015-04-02 11:35:11,111 DEBUG Link stored
-2015-04-02 11:35:11,111 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,111 DEBUG Encountered link: /new/ni/legal/ni_privacy_policy.asp
-2015-04-02 11:35:11,111 DEBUG Link stored
-2015-04-02 11:35:11,111 DEBUG Encountered image: /static/common/spacer.gif
-2015-04-02 11:35:11,112 DEBUG Encountered image: /static/common/curve-w.gif
-2015-04-02 11:35:11,112 DEBUG Encountered image: /static/common/keywordshape.gif
-2015-04-02 11:35:11,112 DEBUG Encountered link: personalloans.asp
-2015-04-02 11:35:11,112 DEBUG Link stored
-2015-04-02 11:35:11,112 DEBUG Encountered image: /ads/ploans_3.gif
-2015-04-02 11:35:11,113 DEBUG Processing finished.
-2015-04-02 11:35:11,113 DEBUG Loading measure
-2015-04-02 11:35:11,113 DEBUG Loading measure from file
-2015-04-02 11:35:11,113 DEBUG Loaded measure from file
-2015-04-02 11:35:11,113 DEBUG Running classifier
-2015-04-02 11:35:11,113 DEBUG Starting predict.
-2015-04-02 11:35:11,114 DEBUG Predicting.
-2015-04-02 11:35:11,114 DEBUG Predicted successfully.
-2015-04-02 11:35:11,114 DEBUG Results constructed.
-2015-04-02 11:35:11,114 DEBUG Constructing result
-2015-04-02 11:35:11,114 INFO {'topics': {'1': 3, '0': 2, '2': 1}, 'weights': {'1': 0.3333333432674408, '0': 0.6666666865348816, '2': 0.0}, 'numberRelevant': 1}
+2015-04-02 12:59:09,959 DEBUG Encountered link: http://www.theguardian.com/sport/australia-sport
+2015-04-02 12:59:09,960 DEBUG Link stored
+2015-04-02 12:59:09,960 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/australia-ashes-30-somethings
+2015-04-02 12:59:09,960 DEBUG Link stored
+2015-04-02 12:59:09,960 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/australia-ashes-30-somethings
+2015-04-02 12:59:09,960 DEBUG Link stored
+2015-04-02 12:59:09,961 DEBUG Encountered link: http://www.theguardian.com/sport/snooker
+2015-04-02 12:59:09,961 DEBUG Link stored
+2015-04-02 12:59:09,961 DEBUG Encountered link: http://www.theguardian.com/sport/snooker
+2015-04-02 12:59:09,961 DEBUG Link stored
+2015-04-02 12:59:09,961 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/22/ronnie-osullivan-judd-trump-grand-prix-final
+2015-04-02 12:59:09,961 DEBUG Link stored
+2015-04-02 12:59:09,962 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/22/ronnie-osullivan-judd-trump-grand-prix-final
+2015-04-02 12:59:09,962 DEBUG Link stored
+2015-04-02 12:59:09,962 DEBUG Encountered link: http://www.theguardian.com/sport/sailing
+2015-04-02 12:59:09,962 DEBUG Link stored
+2015-04-02 12:59:09,962 DEBUG Encountered link: http://www.theguardian.com/sport/sailing
+2015-04-02 12:59:09,962 DEBUG Link stored
+2015-04-02 12:59:09,963 DEBUG Encountered link: http://www.theguardian.com/sport/picture/2015/mar/31/sport-picture-of-the-day-wheres-the-boat-gone
+2015-04-02 12:59:09,963 DEBUG Link stored
+2015-04-02 12:59:09,963 DEBUG Encountered link: http://www.theguardian.com/sport/picture/2015/mar/31/sport-picture-of-the-day-wheres-the-boat-gone
+2015-04-02 12:59:09,963 DEBUG Link stored
+2015-04-02 12:59:09,964 DEBUG Encountered link: http://www.theguardian.com/sport/chess
+2015-04-02 12:59:09,964 DEBUG Link stored
+2015-04-02 12:59:09,964 DEBUG Encountered link: http://www.theguardian.com/sport/chess
+2015-04-02 12:59:09,964 DEBUG Link stored
+2015-04-02 12:59:09,964 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/27/vlad-kramnik-sergey-karjakin-2016-candidates
+2015-04-02 12:59:09,964 DEBUG Link stored
+2015-04-02 12:59:09,964 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/27/vlad-kramnik-sergey-karjakin-2016-candidates
+2015-04-02 12:59:09,964 DEBUG Link stored
+2015-04-02 12:59:09,965 DEBUG Encountered link: http://www.theguardian.com/sport/olympic-games-2016
+2015-04-02 12:59:09,965 DEBUG Link stored
+2015-04-02 12:59:09,965 DEBUG Encountered link: http://www.theguardian.com/sport/olympic-games-2016
+2015-04-02 12:59:09,965 DEBUG Link stored
+2015-04-02 12:59:09,965 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/premiership-rugby-brazil-sevens-rio-olympics-2016
+2015-04-02 12:59:09,965 DEBUG Link stored
+2015-04-02 12:59:09,966 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/premiership-rugby-brazil-sevens-rio-olympics-2016
+2015-04-02 12:59:09,966 DEBUG Link stored
+2015-04-02 12:59:09,966 DEBUG Encountered link: http://www.theguardian.com/sport/disability-sport
+2015-04-02 12:59:09,966 DEBUG Link stored
+2015-04-02 12:59:09,966 DEBUG Encountered link: http://www.theguardian.com/sport/disability-sport
+2015-04-02 12:59:09,966 DEBUG Link stored
+2015-04-02 12:59:09,967 DEBUG Encountered link: http://www.theguardian.com/artanddesign/gallery/2015/mar/21/the-20-photographs-of-the-week
+2015-04-02 12:59:09,967 DEBUG Link stored
+2015-04-02 12:59:09,967 DEBUG Encountered link: http://www.theguardian.com/artanddesign/gallery/2015/mar/21/the-20-photographs-of-the-week
+2015-04-02 12:59:09,967 DEBUG Link stored
+2015-04-02 12:59:09,967 DEBUG Encountered link: http://www.theguardian.com/sport/motorsports
+2015-04-02 12:59:09,967 DEBUG Link stored
+2015-04-02 12:59:09,968 DEBUG Encountered link: http://www.theguardian.com/sport/motorsports
+2015-04-02 12:59:09,968 DEBUG Link stored
+2015-04-02 12:59:09,968 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/30/lewis-hamilton-mercedes-sebastian-vettel-ferrari-f1
+2015-04-02 12:59:09,968 DEBUG Link stored
+2015-04-02 12:59:09,968 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/30/lewis-hamilton-mercedes-sebastian-vettel-ferrari-f1
+2015-04-02 12:59:09,968 DEBUG Link stored
+2015-04-02 12:59:09,969 DEBUG Encountered link: #tabs-popular-1
+2015-04-02 12:59:09,969 DEBUG Link stored
+2015-04-02 12:59:09,969 DEBUG Encountered link: #tabs-popular-2
+2015-04-02 12:59:09,969 DEBUG Link stored
+2015-04-02 12:59:09,970 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/muhammad-ali-rooting-manny-pacquiao-floyd-mayweather
+2015-04-02 12:59:09,970 DEBUG Link stored
+2015-04-02 12:59:09,970 DEBUG Encountered link: http://www.theguardian.com/sport/gallery/2015/mar/31/england-v-italy-82-years-of-football-rivalry-in-pictures
+2015-04-02 12:59:09,970 DEBUG Link stored
+2015-04-02 12:59:09,970 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/our-favourite-things-this-week-la-liga-eibar-portsmouth
+2015-04-02 12:59:09,971 DEBUG Link stored
+2015-04-02 12:59:09,971 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/australia-ashes-30-somethings
+2015-04-02 12:59:09,971 DEBUG Link stored
+2015-04-02 12:59:09,971 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/mitchell-starc-new-generation-the-spin
+2015-04-02 12:59:09,971 DEBUG Link stored
+2015-04-02 12:59:09,972 DEBUG Encountered link: http://www.theguardian.com/sport/blog/2015/mar/31/the-results-are-in-every-single-us-sports-team-is-blue-collar
+2015-04-02 12:59:09,972 DEBUG Link stored
+2015-04-02 12:59:09,972 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/katherine-grainger-rowing-rio-olympics-2016
+2015-04-02 12:59:09,972 DEBUG Link stored
+2015-04-02 12:59:09,973 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/jacqui-oatley-join-itv-sports-presenter-bbc
+2015-04-02 12:59:09,973 DEBUG Link stored
+2015-04-02 12:59:09,973 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/kevin-sinfield-swap-codes-leeds-rinos-yorkshire-carnegie
+2015-04-02 12:59:09,973 DEBUG Link stored
+2015-04-02 12:59:09,973 DEBUG Encountered link: http://www.theguardian.com/sport/2015/mar/31/carl-froch-andre-ward-rematch-eddie-hearn-boxing
+2015-04-02 12:59:09,974 DEBUG Link stored
+2015-04-02 12:59:09,974 DEBUG Encountered image: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+2015-04-02 12:59:09,975 DEBUG Encountered link: http://www.theguardian.com/sport/picture/2015/mar/31/sport-picture-of-the-day-wheres-the-boat-gone
+2015-04-02 12:59:09,975 DEBUG Link stored
+2015-04-02 12:59:09,975 DEBUG Encountered link: http://www.theguardian.com/sport/picture/2015/mar/31/sport-picture-of-the-day-wheres-the-boat-gone
+2015-04-02 12:59:09,975 DEBUG Link stored
+2015-04-02 12:59:09,976 DEBUG Encountered link: http://www.theguardian.com/sport/all
+2015-04-02 12:59:09,976 DEBUG Link stored
+2015-04-02 12:59:09,976 DEBUG Encountered link: http://www.theguardian.com/sport/cricket
+2015-04-02 12:59:09,976 DEBUG Link stored
+2015-04-02 12:59:09,976 DEBUG Encountered link: http://www.theguardian.com/sport/australia-sport
+2015-04-02 12:59:09,976 DEBUG Link stored
+2015-04-02 12:59:09,977 DEBUG Encountered link: http://www.theguardian.com/sport/us-sport
+2015-04-02 12:59:09,977 DEBUG Link stored
+2015-04-02 12:59:09,977 DEBUG Encountered link: http://www.theguardian.com/sport/rugby-union
+2015-04-02 12:59:09,977 DEBUG Link stored
+2015-04-02 12:59:09,977 DEBUG Encountered link: http://www.theguardian.com/sport/australia-cricket-team
+2015-04-02 12:59:09,977 DEBUG Link stored
+2015-04-02 12:59:09,977 DEBUG Encountered link: http://www.theguardian.com/football/europeanfootball
+2015-04-02 12:59:09,977 DEBUG Link stored
+2015-04-02 12:59:09,978 DEBUG Encountered link: http://www.theguardian.com/sport/cricket-world-cup-2015
+2015-04-02 12:59:09,978 DEBUG Link stored
+2015-04-02 12:59:09,978 DEBUG Encountered link: http://www.theguardian.com/sport/olympic-games
+2015-04-02 12:59:09,978 DEBUG Link stored
+2015-04-02 12:59:09,978 DEBUG Encountered link: http://www.theguardian.com/sport/olympic-games-2016
+2015-04-02 12:59:09,978 DEBUG Link stored
+2015-04-02 12:59:09,978 DEBUG Encountered link: http://www.theguardian.com/football/friendlies
+2015-04-02 12:59:09,979 DEBUG Link stored
+2015-04-02 12:59:09,979 DEBUG Encountered link: http://www.theguardian.com/sport/england-cricket-team
+2015-04-02 12:59:09,979 DEBUG Link stored
+2015-04-02 12:59:09,979 DEBUG Encountered link: http://www.theguardian.com/sport/nfl
+2015-04-02 12:59:09,979 DEBUG Link stored
+2015-04-02 12:59:09,979 DEBUG Encountered link: http://www.theguardian.com/sport/new-zealand-cricket-team
+2015-04-02 12:59:09,979 DEBUG Link stored
+2015-04-02 12:59:09,980 DEBUG Encountered link: http://www.theguardian.com/football/northernireland
+2015-04-02 12:59:09,980 DEBUG Link stored
+2015-04-02 12:59:09,980 DEBUG Encountered link: http://www.theguardian.com/sport/boxing
+2015-04-02 12:59:09,980 DEBUG Link stored
+2015-04-02 12:59:09,980 DEBUG Encountered link: http://www.theguardian.com/football/england
+2015-04-02 12:59:09,980 DEBUG Link stored
+2015-04-02 12:59:09,980 DEBUG Encountered link: http://www.theguardian.com/sport/horse-racing
+2015-04-02 12:59:09,980 DEBUG Link stored
+2015-04-02 12:59:09,981 DEBUG Encountered link: http://www.theguardian.com/sport/ashes
+2015-04-02 12:59:09,981 DEBUG Link stored
+2015-04-02 12:59:09,981 DEBUG Encountered link: http://www.theguardian.com/football/footballpolitics
+2015-04-02 12:59:09,981 DEBUG Link stored
+2015-04-02 12:59:09,981 DEBUG Encountered link: http://www.theguardian.com/football/premierleague
+2015-04-02 12:59:09,981 DEBUG Link stored
+2015-04-02 12:59:09,981 DEBUG Encountered link: http://www.theguardian.com/uk
+2015-04-02 12:59:09,981 DEBUG Link stored
+2015-04-02 12:59:09,982 DEBUG Encountered link: #top
+2015-04-02 12:59:09,982 DEBUG Link stored
+2015-04-02 12:59:09,982 DEBUG Encountered link: http://www.theguardian.com/uk
+2015-04-02 12:59:09,982 DEBUG Link stored
+2015-04-02 12:59:09,982 DEBUG Encountered link: http://www.theguardian.com/uk-news
+2015-04-02 12:59:09,982 DEBUG Link stored
+2015-04-02 12:59:09,983 DEBUG Encountered link: http://www.theguardian.com/politics/general-election-2015
+2015-04-02 12:59:09,983 DEBUG Link stored
+2015-04-02 12:59:09,983 DEBUG Encountered link: http://www.theguardian.com/world
+2015-04-02 12:59:09,983 DEBUG Link stored
+2015-04-02 12:59:09,983 DEBUG Encountered link: http://www.theguardian.com/uk/sport
+2015-04-02 12:59:09,983 DEBUG Link stored
+2015-04-02 12:59:09,983 DEBUG Encountered link: http://www.theguardian.com/football
+2015-04-02 12:59:09,983 DEBUG Link stored
+2015-04-02 12:59:09,983 DEBUG Encountered link: http://www.theguardian.com/uk/commentisfree
+2015-04-02 12:59:09,984 DEBUG Link stored
+2015-04-02 12:59:09,984 DEBUG Encountered link: http://www.theguardian.com/uk/culture
+2015-04-02 12:59:09,984 DEBUG Link stored
+2015-04-02 12:59:09,984 DEBUG Encountered link: http://www.theguardian.com/uk/business
+2015-04-02 12:59:09,984 DEBUG Link stored
+2015-04-02 12:59:09,984 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle
+2015-04-02 12:59:09,984 DEBUG Link stored
+2015-04-02 12:59:09,984 DEBUG Encountered link: http://www.theguardian.com/fashion
+2015-04-02 12:59:09,984 DEBUG Link stored
+2015-04-02 12:59:09,985 DEBUG Encountered link: http://www.theguardian.com/uk/environment
+2015-04-02 12:59:09,985 DEBUG Link stored
+2015-04-02 12:59:09,985 DEBUG Encountered link: http://www.theguardian.com/uk/technology
+2015-04-02 12:59:09,985 DEBUG Link stored
+2015-04-02 12:59:09,985 DEBUG Encountered link: http://www.theguardian.com/travel
+2015-04-02 12:59:09,985 DEBUG Link stored
+2015-04-02 12:59:09,985 DEBUG Encountered link: #footer-nav
+2015-04-02 12:59:09,985 DEBUG Link stored
+2015-04-02 12:59:09,986 DEBUG Encountered link: http://www.theguardian.com/uk
+2015-04-02 12:59:09,986 DEBUG Link stored
+2015-04-02 12:59:09,986 DEBUG Encountered link: http://www.theguardian.com/uk-news
+2015-04-02 12:59:09,986 DEBUG Link stored
+2015-04-02 12:59:09,986 DEBUG Encountered link: http://www.theguardian.com/politics/general-election-2015
+2015-04-02 12:59:09,986 DEBUG Link stored
+2015-04-02 12:59:09,986 DEBUG Encountered link: http://www.theguardian.com/world
+2015-04-02 12:59:09,986 DEBUG Link stored
+2015-04-02 12:59:09,987 DEBUG Encountered link: http://www.theguardian.com/world/europe-news
+2015-04-02 12:59:09,987 DEBUG Link stored
+2015-04-02 12:59:09,987 DEBUG Encountered link: http://www.theguardian.com/us-news
+2015-04-02 12:59:09,987 DEBUG Link stored
+2015-04-02 12:59:09,987 DEBUG Encountered link: http://www.theguardian.com/world/americas
+2015-04-02 12:59:09,987 DEBUG Link stored
+2015-04-02 12:59:09,987 DEBUG Encountered link: http://www.theguardian.com/world/asia
+2015-04-02 12:59:09,987 DEBUG Link stored
+2015-04-02 12:59:09,988 DEBUG Encountered link: http://www.theguardian.com/australia-news
+2015-04-02 12:59:09,988 DEBUG Link stored
+2015-04-02 12:59:09,988 DEBUG Encountered link: http://www.theguardian.com/world/africa
+2015-04-02 12:59:09,988 DEBUG Link stored
+2015-04-02 12:59:09,988 DEBUG Encountered link: http://www.theguardian.com/world/middleeast
+2015-04-02 12:59:09,988 DEBUG Link stored
+2015-04-02 12:59:09,988 DEBUG Encountered link: http://www.theguardian.com/uk/sport
+2015-04-02 12:59:09,988 DEBUG Link stored
+2015-04-02 12:59:09,989 DEBUG Encountered link: http://www.theguardian.com/football
+2015-04-02 12:59:09,989 DEBUG Link stored
+2015-04-02 12:59:09,989 DEBUG Encountered link: http://www.theguardian.com/sport/rugby-union
+2015-04-02 12:59:09,989 DEBUG Link stored
+2015-04-02 12:59:09,989 DEBUG Encountered link: http://www.theguardian.com/sport/cricket
+2015-04-02 12:59:09,989 DEBUG Link stored
+2015-04-02 12:59:09,989 DEBUG Encountered link: http://www.theguardian.com/sport/tennis
+2015-04-02 12:59:09,989 DEBUG Link stored
+2015-04-02 12:59:09,989 DEBUG Encountered link: http://www.theguardian.com/sport/golf
+2015-04-02 12:59:09,990 DEBUG Link stored
+2015-04-02 12:59:09,990 DEBUG Encountered link: http://www.theguardian.com/sport/cycling
+2015-04-02 12:59:09,990 DEBUG Link stored
+2015-04-02 12:59:09,990 DEBUG Encountered link: http://www.theguardian.com/sport/boxing
+2015-04-02 12:59:09,990 DEBUG Link stored
+2015-04-02 12:59:09,990 DEBUG Encountered link: http://www.theguardian.com/sport/us-sport
+2015-04-02 12:59:09,990 DEBUG Link stored
+2015-04-02 12:59:09,990 DEBUG Encountered link: http://www.theguardian.com/sport/rugbyleague
+2015-04-02 12:59:09,990 DEBUG Link stored
+2015-04-02 12:59:09,991 DEBUG Encountered link: http://www.theguardian.com/sport/formulaone
+2015-04-02 12:59:09,991 DEBUG Link stored
+2015-04-02 12:59:09,991 DEBUG Encountered link: http://www.theguardian.com/sport/horse-racing
+2015-04-02 12:59:09,991 DEBUG Link stored
+2015-04-02 12:59:09,991 DEBUG Encountered link: http://www.theguardian.com/football
+2015-04-02 12:59:09,991 DEBUG Link stored
+2015-04-02 12:59:09,991 DEBUG Encountered link: http://www.theguardian.com/football/live
+2015-04-02 12:59:09,991 DEBUG Link stored
+2015-04-02 12:59:09,992 DEBUG Encountered link: http://www.theguardian.com/football/tables
+2015-04-02 12:59:09,992 DEBUG Link stored
+2015-04-02 12:59:09,992 DEBUG Encountered link: http://www.theguardian.com/football/competitions
+2015-04-02 12:59:09,992 DEBUG Link stored
+2015-04-02 12:59:09,992 DEBUG Encountered link: http://www.theguardian.com/football/results
+2015-04-02 12:59:09,992 DEBUG Link stored
+2015-04-02 12:59:09,992 DEBUG Encountered link: http://www.theguardian.com/football/fixtures
+2015-04-02 12:59:09,992 DEBUG Link stored
+2015-04-02 12:59:09,993 DEBUG Encountered link: http://www.theguardian.com/football/teams
+2015-04-02 12:59:09,993 DEBUG Link stored
+2015-04-02 12:59:09,993 DEBUG Encountered link: http://www.theguardian.com/uk/commentisfree
+2015-04-02 12:59:09,993 DEBUG Link stored
+2015-04-02 12:59:09,993 DEBUG Encountered link: http://www.theguardian.com/uk/culture
+2015-04-02 12:59:09,993 DEBUG Link stored
+2015-04-02 12:59:09,993 DEBUG Encountered link: http://www.theguardian.com/film
+2015-04-02 12:59:09,993 DEBUG Link stored
+2015-04-02 12:59:09,993 DEBUG Encountered link: http://www.theguardian.com/tv-and-radio
+2015-04-02 12:59:09,994 DEBUG Link stored
+2015-04-02 12:59:09,994 DEBUG Encountered link: http://www.theguardian.com/music
+2015-04-02 12:59:09,994 DEBUG Link stored
+2015-04-02 12:59:09,994 DEBUG Encountered link: http://www.theguardian.com/technology/games
+2015-04-02 12:59:09,994 DEBUG Link stored
+2015-04-02 12:59:09,994 DEBUG Encountered link: http://www.theguardian.com/books
+2015-04-02 12:59:09,994 DEBUG Link stored
+2015-04-02 12:59:09,994 DEBUG Encountered link: http://www.theguardian.com/artanddesign
+2015-04-02 12:59:09,994 DEBUG Link stored
+2015-04-02 12:59:09,995 DEBUG Encountered link: http://www.theguardian.com/stage
+2015-04-02 12:59:09,995 DEBUG Link stored
+2015-04-02 12:59:09,995 DEBUG Encountered link: http://www.theguardian.com/music/classicalmusicandopera
+2015-04-02 12:59:09,995 DEBUG Link stored
+2015-04-02 12:59:09,995 DEBUG Encountered link: http://www.theguardian.com/uk/business
+2015-04-02 12:59:09,995 DEBUG Link stored
+2015-04-02 12:59:09,995 DEBUG Encountered link: http://www.theguardian.com/business/stock-markets
+2015-04-02 12:59:09,995 DEBUG Link stored
+2015-04-02 12:59:09,996 DEBUG Encountered link: http://www.theguardian.com/business/companies
+2015-04-02 12:59:09,996 DEBUG Link stored
+2015-04-02 12:59:09,996 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle
+2015-04-02 12:59:09,996 DEBUG Link stored
+2015-04-02 12:59:09,996 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle/food-and-drink
+2015-04-02 12:59:09,996 DEBUG Link stored
+2015-04-02 12:59:09,996 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle/health-and-wellbeing
+2015-04-02 12:59:09,996 DEBUG Link stored
+2015-04-02 12:59:09,997 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle/love-and-sex
+2015-04-02 12:59:09,997 DEBUG Link stored
+2015-04-02 12:59:09,997 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle/family
+2015-04-02 12:59:09,997 DEBUG Link stored
+2015-04-02 12:59:09,997 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle/women
+2015-04-02 12:59:09,997 DEBUG Link stored
+2015-04-02 12:59:09,997 DEBUG Encountered link: http://www.theguardian.com/lifeandstyle/home-and-garden
+2015-04-02 12:59:09,997 DEBUG Link stored
+2015-04-02 12:59:09,998 DEBUG Encountered link: http://www.theguardian.com/fashion
+2015-04-02 12:59:09,998 DEBUG Link stored
+2015-04-02 12:59:09,998 DEBUG Encountered link: http://www.theguardian.com/uk/environment
+2015-04-02 12:59:09,998 DEBUG Link stored
+2015-04-02 12:59:09,998 DEBUG Encountered link: http://www.theguardian.com/cities
+2015-04-02 12:59:09,998 DEBUG Link stored
+2015-04-02 12:59:09,998 DEBUG Encountered link: http://www.theguardian.com/global-development
+2015-04-02 12:59:09,998 DEBUG Link stored
+2015-04-02 12:59:09,999 DEBUG Encountered link: http://www.theguardian.com/uk/technology
+2015-04-02 12:59:09,999 DEBUG Link stored
+2015-04-02 12:59:09,999 DEBUG Encountered link: http://www.theguardian.com/travel
+2015-04-02 12:59:09,999 DEBUG Link stored
+2015-04-02 12:59:09,999 DEBUG Encountered link: http://www.theguardian.com/travel/uk
+2015-04-02 12:59:09,999 DEBUG Link stored
+2015-04-02 12:59:09,999 DEBUG Encountered link: http://www.theguardian.com/travel/europe
+2015-04-02 12:59:09,999 DEBUG Link stored
+2015-04-02 12:59:09,999 DEBUG Encountered link: http://www.theguardian.com/travel/usa
+2015-04-02 12:59:10,000 DEBUG Link stored
+2015-04-02 12:59:10,000 DEBUG Encountered link: http://www.theguardian.com/uk/money
+2015-04-02 12:59:10,000 DEBUG Link stored
+2015-04-02 12:59:10,000 DEBUG Encountered link: http://www.theguardian.com/money/property
+2015-04-02 12:59:10,000 DEBUG Link stored
+2015-04-02 12:59:10,000 DEBUG Encountered link: http://www.theguardian.com/money/savings
+2015-04-02 12:59:10,000 DEBUG Link stored
+2015-04-02 12:59:10,000 DEBUG Encountered link: http://www.theguardian.com/money/debt
+2015-04-02 12:59:10,000 DEBUG Link stored
+2015-04-02 12:59:10,001 DEBUG Encountered link: http://www.theguardian.com/money/work-and-careers
+2015-04-02 12:59:10,001 DEBUG Link stored
+2015-04-02 12:59:10,001 DEBUG Encountered link: http://www.theguardian.com/science
+2015-04-02 12:59:10,001 DEBUG Link stored
+2015-04-02 12:59:10,001 DEBUG Encountered link: http://www.theguardian.com/education
+2015-04-02 12:59:10,001 DEBUG Link stored
+2015-04-02 12:59:10,001 DEBUG Encountered link: http://www.theguardian.com/education/students
+2015-04-02 12:59:10,001 DEBUG Link stored
+2015-04-02 12:59:10,002 DEBUG Encountered link: http://www.theguardian.com/teacher-network
+2015-04-02 12:59:10,002 DEBUG Link stored
+2015-04-02 12:59:10,002 DEBUG Encountered link: http://www.theguardian.com/uk/media
+2015-04-02 12:59:10,002 DEBUG Link stored
+2015-04-02 12:59:10,002 DEBUG Encountered link: http://www.theguardian.com/guardian-professional
+2015-04-02 12:59:10,002 DEBUG Link stored
+2015-04-02 12:59:10,002 DEBUG Encountered link: http://www.theguardian.com/observer
+2015-04-02 12:59:10,002 DEBUG Link stored
+2015-04-02 12:59:10,003 DEBUG Encountered link: http://www.theguardian.com/theguardian
+2015-04-02 12:59:10,003 DEBUG Link stored
+2015-04-02 12:59:10,003 DEBUG Encountered link: http://www.theguardian.com/theguardian/mainsection/editorialsandreply
+2015-04-02 12:59:10,003 DEBUG Link stored
+2015-04-02 12:59:10,003 DEBUG Encountered link: http://www.theguardian.com/tone/obituaries
+2015-04-02 12:59:10,003 DEBUG Link stored
+2015-04-02 12:59:10,003 DEBUG Encountered link: http://www.theguardian.com/theguardian/g2
+2015-04-02 12:59:10,003 DEBUG Link stored
+2015-04-02 12:59:10,004 DEBUG Encountered link: http://www.theguardian.com/theguardian/weekend
+2015-04-02 12:59:10,004 DEBUG Link stored
+2015-04-02 12:59:10,004 DEBUG Encountered link: http://www.theguardian.com/theguardian/theguide
+2015-04-02 12:59:10,004 DEBUG Link stored
+2015-04-02 12:59:10,004 DEBUG Encountered link: http://www.theguardian.com/theguardian/guardianreview
+2015-04-02 12:59:10,004 DEBUG Link stored
+2015-04-02 12:59:10,004 DEBUG Encountered link: http://www.theguardian.com/crosswords
+2015-04-02 12:59:10,004 DEBUG Link stored
+2015-04-02 12:59:10,004 DEBUG Encountered link: http://www.theguardian.com/video
+2015-04-02 12:59:10,005 DEBUG Link stored
+2015-04-02 12:59:10,005 DEBUG Encountered link: https://membership.theguardian.com/?INTCMP=NGW_FOOTER_UK_GU_MEMBERSHIP
+2015-04-02 12:59:10,005 DEBUG Link stored
+2015-04-02 12:59:10,005 DEBUG Encountered link: http://jobs.theguardian.com/?INTCMP=NGW_FOOTER_UK_GU_JOBS
+2015-04-02 12:59:10,005 DEBUG Link stored
+2015-04-02 12:59:10,005 DEBUG Encountered link: https://soulmates.theguardian.com/?INTCMP=NGW_FOOTER_UK_GU_SOULMATES
+2015-04-02 12:59:10,005 DEBUG Link stored
+2015-04-02 12:59:10,005 DEBUG Encountered link: http://www.theguardian.com/guardian-masterclasses?INTCMP=NGW_FOOTER_UK_GU_MASTERCLASSES
+2015-04-02 12:59:10,006 DEBUG Link stored
+2015-04-02 12:59:10,006 DEBUG Encountered link: http://subscribe.theguardian.com/?INTCMP=NGW_FOOTER_UK_GU_SUBSCRIBE
+2015-04-02 12:59:10,006 DEBUG Link stored
+2015-04-02 12:59:10,006 DEBUG Encountered link: http://www.theguardian.com/index/subjects/a
+2015-04-02 12:59:10,006 DEBUG Link stored
+2015-04-02 12:59:10,006 DEBUG Encountered link: http://www.theguardian.com/index/contributors
+2015-04-02 12:59:10,006 DEBUG Link stored
+2015-04-02 12:59:10,006 DEBUG Encountered link: http://www.theguardian.com/info
+2015-04-02 12:59:10,006 DEBUG Link stored
+2015-04-02 12:59:10,007 DEBUG Encountered link: http://www.theguardian.com/help/contact-us
+2015-04-02 12:59:10,007 DEBUG Link stored
+2015-04-02 12:59:10,007 DEBUG Encountered link: http://www.theguardian.com/info/complaints-and-corrections
+2015-04-02 12:59:10,007 DEBUG Link stored
+2015-04-02 12:59:10,007 DEBUG Encountered link: http://www.theguardian.com/help/terms-of-service
+2015-04-02 12:59:10,007 DEBUG Link stored
+2015-04-02 12:59:10,007 DEBUG Encountered link: http://www.theguardian.com/info/privacy
+2015-04-02 12:59:10,007 DEBUG Link stored
+2015-04-02 12:59:10,008 DEBUG Encountered link: http://www.theguardian.com/info/cookies
+2015-04-02 12:59:10,008 DEBUG Link stored
+2015-04-02 12:59:10,008 DEBUG Encountered link: https://securedrop.theguardian.com/
+2015-04-02 12:59:10,008 DEBUG Link stored
+2015-04-02 12:59:10,010 DEBUG Encountered image: //beacon.guim.co.uk/count/pv.gif
+2015-04-02 12:59:10,011 DEBUG Processing finished.
+2015-04-02 12:59:10,011 DEBUG Loading measure
+2015-04-02 12:59:10,012 DEBUG Loading measure from file
+2015-04-02 12:59:10,032 DEBUG Loaded measure from file
+2015-04-02 12:59:10,032 DEBUG Running classifier
+2015-04-02 12:59:10,032 DEBUG Starting predict.
+2015-04-02 12:59:10,040 DEBUG Predicting.
+2015-04-02 12:59:10,041 DEBUG Predicted successfully.
+2015-04-02 12:59:10,041 DEBUG Results constructed.
+2015-04-02 12:59:10,041 DEBUG Constructing result
+2015-04-02 12:59:10,042 INFO {'topics': {'1': 315, '0': 310, '3': 307, '2': 313, '5': 309, '4': 316}, 'weights': {'1': 0.2666666805744171, '0': 0.3333333432674408, '3': 0.13333334028720856, '2': 0.20000000298023224, '5': 0.0, '4': 0.06666667014360428}, 'numberRelevant': 1}

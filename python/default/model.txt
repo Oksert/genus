@@ -1,11 +1,35 @@
-Number_Of_Topics= 3
-Number_Of_Support_Vectors= 3
-Number_Of_Binary_Problems= 6
+Number_Of_Topics= 6
+Number_Of_Support_Vectors= 316
+Number_Of_Binary_Problems= 30
 Multiclass_decomposition_type= 0
 Decomposition_Matrix
-1 -1 0 
-1 0 -1 
-0 1 -1 
-0 -1 1 
--1 0 1 
--1 1 0 
+1 -1 0 0 0 0 
+1 0 -1 0 0 0 
+1 0 0 -1 0 0 
+1 0 0 0 -1 0 
+1 0 0 0 0 -1 
+0 1 -1 0 0 0 
+0 1 0 -1 0 0 
+0 1 0 0 -1 0 
+0 1 0 0 0 -1 
+0 0 1 -1 0 0 
+0 0 1 0 -1 0 
+0 0 1 0 0 -1 
+0 0 0 1 -1 0 
+0 0 0 1 0 -1 
+0 0 0 0 1 -1 
+0 0 0 0 -1 1 
+0 0 0 -1 0 1 
+0 0 0 -1 1 0 
+0 0 -1 0 0 1 
+0 0 -1 0 1 0 
+0 0 -1 1 0 0 
+0 -1 0 0 0 1 
+0 -1 0 0 1 0 
+0 -1 0 1 0 0 
+0 -1 1 0 0 0 
+-1 0 0 0 0 1 
+-1 0 0 0 1 0 
+-1 0 0 1 0 0 
+-1 0 1 0 0 0 
+-1 1 0 0 0 0 
