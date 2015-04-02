@@ -20,6 +20,7 @@ def main():
 		doc = {'encoding': "UTF-8", 'content': data, 'URL': ''}
 		#docTopic = getTopicName(f)
 		docTopicId = []
+		#Саша - Молодец!
 		#docTopicId.append(allTopics[docTopic])
 		#print str(docTopicId)
 		document = {'document':doc, 'topics':'12'}
