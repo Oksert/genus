@@ -1,0 +1,11 @@
+State= 2
+Number_Of_Support_Vectors= 1
+Document_Numbers_in_Support_Vectors_Set
+0 
+Labels_of_Support_Vectors
+1 
+Coefficients_For_Support_Vectors
+0 
+b= 0
+A= 0
+B= -0.6931471824645996

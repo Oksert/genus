@@ -1,0 +1,12 @@
+set(CMAKE_CXX_FLAGS "-fpermissive -fPIC")
+set(CMAKE_C_FLAGS "-fPIC ")
+
+cmake_minimum_required(VERSION 2.6)
+
+add_subdirectory(classifier)
+add_subdirectory(fplib)
+add_subdirectory(frequencymeasure)
+add_subdirectory(parser)
+add_subdirectory(pyBinding)
+
+add_dependencies(CMODULE classifier fp frequencymeasure parser)

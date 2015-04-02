@@ -1,0 +1,403 @@
+2015-04-02 09:13:47,612 DEBUG Test run started...
+2015-04-02 09:13:47,612 DEBUG Test run finished...
+2015-04-02 09:13:47,612 DEBUG Parsing genus.xml
+2015-04-02 09:13:47,613 DEBUG Kernel url = http://127.0.0.1:8080/kernel/xmlrpc
+2015-04-02 09:13:47,613 DEBUG Classifier host: samara.mlab.cs.msu.su; port: 
+2015-04-02 09:13:47,613 DEBUG 32000
+2015-04-02 09:13:47,613 DEBUG Starting document cycle
+2015-04-02 09:13:47,613 DEBUG Creating parser
+2015-04-02 09:13:47,613 INFO Requesting document 0
+2015-04-02 09:13:47,613 DEBUG Parsing document
+2015-04-02 09:13:47,614 INFO Parsing with parameters:
+2015-04-02 09:13:47,614 INFO Train: 1
+2015-04-02 09:13:47,614 INFO Processing (0 - None, 1 - Stemming, 2 - gramm): 1
+2015-04-02 09:13:47,614 INFO Gramm number: 3
+2015-04-02 09:13:47,614 INFO Convert encodings: 1
+2015-04-02 09:13:47,614 INFO Encoding: UTF-8
+2015-04-02 09:13:47,614 DEBUG Starting parser
+2015-04-02 09:13:47,614 DEBUG Getting contexts
+2015-04-02 09:13:47,614 DEBUG Initializing case converter and stop-words database.
+2015-04-02 09:13:47,655 DEBUG Initializing dictionary.
+2015-04-02 09:13:47,656 DEBUG Creating parsing pipe.
+2015-04-02 09:13:47,656 DEBUG Processing text...
+2015-04-02 09:13:47,662 DEBUG Encountered link: #navigation
+2015-04-02 09:13:47,662 DEBUG Link stored
+2015-04-02 09:13:47,662 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,663 DEBUG Encountered link: /
+2015-04-02 09:13:47,663 DEBUG Link stored
+2015-04-02 09:13:47,663 DEBUG Encountered image: /img/insidelogoc.gif
+2015-04-02 09:13:47,663 DEBUG Encountered image: /img/dot.gif
+2015-04-02 09:13:47,663 DEBUG Encountered link: /page.php?id_link=160
+2015-04-02 09:13:47,663 DEBUG Link stored
+2015-04-02 09:13:47,664 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,664 DEBUG Encountered link: /page.php?id_link=76
+2015-04-02 09:13:47,664 DEBUG Link stored
+2015-04-02 09:13:47,664 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,664 DEBUG Encountered link: /page.php?id_link=75
+2015-04-02 09:13:47,664 DEBUG Link stored
+2015-04-02 09:13:47,664 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,664 DEBUG Encountered link: /page.php?id_link=83
+2015-04-02 09:13:47,664 DEBUG Link stored
+2015-04-02 09:13:47,665 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,665 DEBUG Encountered link: /page.php?id_link=84
+2015-04-02 09:13:47,665 DEBUG Link stored
+2015-04-02 09:13:47,665 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,665 DEBUG Encountered link: /page.php?id_link=91
+2015-04-02 09:13:47,665 DEBUG Link stored
+2015-04-02 09:13:47,665 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,665 DEBUG Encountered link: /page.php?id_link=89
+2015-04-02 09:13:47,665 DEBUG Link stored
+2015-04-02 09:13:47,666 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,666 DEBUG Encountered link: /page.php?id_link=90
+2015-04-02 09:13:47,666 DEBUG Link stored
+2015-04-02 09:13:47,666 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,666 DEBUG Encountered link: /page.php?id_link=266
+2015-04-02 09:13:47,666 DEBUG Link stored
+2015-04-02 09:13:47,666 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,666 DEBUG Encountered link: /page.php?id_link=543
+2015-04-02 09:13:47,666 DEBUG Link stored
+2015-04-02 09:13:47,667 DEBUG Encountered image: /img/navdots.gif
+2015-04-02 09:13:47,667 DEBUG Encountered link: /page.php?id_link=608
+2015-04-02 09:13:47,667 DEBUG Link stored
+2015-04-02 09:13:47,667 DEBUG Encountered image: /img/search/insideundernavc.gif
+2015-04-02 09:13:47,667 DEBUG Encountered link: slb-results.html
+2015-04-02 09:13:47,667 DEBUG Link stored
+2015-04-02 09:13:47,667 DEBUG Encountered image: /img/search/search-magnify-d.gif
+2015-04-02 09:13:47,668 DEBUG Encountered image: /img/search/bottom-search-inside.gif
+2015-04-02 09:13:47,668 DEBUG Encountered link: http://www.unbiased.co.uk/standardlifebank
+2015-04-02 09:13:47,668 DEBUG Link stored
+2015-04-02 09:13:47,668 DEBUG Encountered image: /img/findanifawhite.gif
+2015-04-02 09:13:47,668 DEBUG Encountered image: /img/insidestripc.gif
+2015-04-02 09:13:47,668 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,668 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,668 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,669 DEBUG Encountered image: /img/insidetopc.gif
+2015-04-02 09:13:47,669 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,669 DEBUG Encountered image: /img/banking-logon.gif
+2015-04-02 09:13:47,669 DEBUG Encountered image: /img/logondots-vertical.gif
+2015-04-02 09:13:47,669 DEBUG Encountered image: /img/reference-nt2.gif
+2015-04-02 09:13:47,669 DEBUG Encountered image: /img/password-nt2.gif
+2015-04-02 09:13:47,670 DEBUG Encountered image: /img/camcorner2.gif
+2015-04-02 09:13:47,670 DEBUG Encountered image: /img/squarecama.gif
+2015-04-02 09:13:47,670 DEBUG Encountered image: /img/squarecamb.gif
+2015-04-02 09:13:47,670 DEBUG Encountered image: /img/homedot.gif
+2015-04-02 09:13:47,670 DEBUG Encountered link: /page.php?id_link=358
+2015-04-02 09:13:47,670 DEBUG Link stored
+2015-04-02 09:13:47,670 DEBUG Encountered image: /img/help-nt.gif
+2015-04-02 09:13:47,671 DEBUG Encountered image: /img/homedot.gif
+2015-04-02 09:13:47,671 DEBUG Encountered link: page.php?id_link=347
+2015-04-02 09:13:47,671 DEBUG Link stored
+2015-04-02 09:13:47,671 DEBUG Encountered image: /img/terms&conditions-nt.gif
+2015-04-02 09:13:47,671 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,671 DEBUG Encountered image: /img/ourrates.gif
+2015-04-02 09:13:47,671 DEBUG Encountered link: /
+2015-04-02 09:13:47,671 DEBUG Link stored
+2015-04-02 09:13:47,671 DEBUG Encountered image: /img/indicator3.gif
+2015-04-02 09:13:47,672 DEBUG Encountered link: #mort1
+2015-04-02 09:13:47,672 DEBUG Link stored
+2015-04-02 09:13:47,672 DEBUG Encountered link: #rates2
+2015-04-02 09:13:47,672 DEBUG Link stored
+2015-04-02 09:13:47,672 DEBUG Encountered link: #rates3
+2015-04-02 09:13:47,672 DEBUG Link stored
+2015-04-02 09:13:47,673 DEBUG Encountered link: #rates6
+2015-04-02 09:13:47,673 DEBUG Link stored
+2015-04-02 09:13:47,673 DEBUG Encountered link: #rates7
+2015-04-02 09:13:47,673 DEBUG Link stored
+2015-04-02 09:13:47,673 DEBUG Encountered link: #rates8
+2015-04-02 09:13:47,673 DEBUG Link stored
+2015-04-02 09:13:47,673 DEBUG Encountered link: #rates9
+2015-04-02 09:13:47,674 DEBUG Link stored
+2015-04-02 09:13:47,674 DEBUG Encountered link: #rates5
+2015-04-02 09:13:47,674 DEBUG Link stored
+2015-04-02 09:13:47,674 DEBUG Encountered link: #rates3
+2015-04-02 09:13:47,674 DEBUG Link stored
+2015-04-02 09:13:47,674 DEBUG Encountered link: #rates4
+2015-04-02 09:13:47,674 DEBUG Link stored
+2015-04-02 09:13:47,674 DEBUG Encountered link: /page.php?id_link=450
+2015-04-02 09:13:47,674 DEBUG Link stored
+2015-04-02 09:13:47,675 DEBUG Encountered link: 
+2015-04-02 09:13:47,675 DEBUG Link stored
+2015-04-02 09:13:47,676 DEBUG Encountered link: page.php?id_link=495
+2015-04-02 09:13:47,676 DEBUG Link stored
+2015-04-02 09:13:47,677 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,677 DEBUG Link stored
+2015-04-02 09:13:47,677 DEBUG Encountered link: http://www.standardlifebank.co.uk/mortcalc/consumer95decide.jsp
+2015-04-02 09:13:47,677 DEBUG Link stored
+2015-04-02 09:13:47,678 DEBUG Encountered link: page.php?id_link=532
+2015-04-02 09:13:47,678 DEBUG Link stored
+2015-04-02 09:13:47,678 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,678 DEBUG Link stored
+2015-04-02 09:13:47,678 DEBUG Encountered link: http://www.standardlifebank.co.uk/mortcalc/consumer95decide.jsp
+2015-04-02 09:13:47,679 DEBUG Link stored
+2015-04-02 09:13:47,680 DEBUG Encountered link: page.php?id_link=644
+2015-04-02 09:13:47,680 DEBUG Link stored
+2015-04-02 09:13:47,680 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,680 DEBUG Link stored
+2015-04-02 09:13:47,680 DEBUG Encountered link: http://www.standardlifebank.co.uk/mortcalc/consumer95decide.jsp
+2015-04-02 09:13:47,680 DEBUG Link stored
+2015-04-02 09:13:47,682 DEBUG Encountered link: page.php?id_link=533
+2015-04-02 09:13:47,682 DEBUG Link stored
+2015-04-02 09:13:47,682 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,682 DEBUG Link stored
+2015-04-02 09:13:47,682 DEBUG Encountered link: http://www.standardlifebank.co.uk/mortcalc/consumer95decide.jsp
+2015-04-02 09:13:47,682 DEBUG Link stored
+2015-04-02 09:13:47,683 DEBUG Encountered link: page.php?id_link=531
+2015-04-02 09:13:47,683 DEBUG Link stored
+2015-04-02 09:13:47,684 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,684 DEBUG Link stored
+2015-04-02 09:13:47,684 DEBUG Encountered link: http://www.standardlifebank.co.uk/mortcalc/consumer95decide.jsp
+2015-04-02 09:13:47,684 DEBUG Link stored
+2015-04-02 09:13:47,685 DEBUG Encountered link: page.php?id_link=519
+2015-04-02 09:13:47,685 DEBUG Link stored
+2015-04-02 09:13:47,685 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,685 DEBUG Link stored
+2015-04-02 09:13:47,686 DEBUG Encountered link: page.php?id_link=531
+2015-04-02 09:13:47,686 DEBUG Link stored
+2015-04-02 09:13:47,686 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,686 DEBUG Link stored
+2015-04-02 09:13:47,686 DEBUG Encountered link: http://www.standardlifebank.co.uk/mortcalc/consumer95decide.jsp
+2015-04-02 09:13:47,686 DEBUG Link stored
+2015-04-02 09:13:47,687 DEBUG Encountered link: page.php?id_link=594
+2015-04-02 09:13:47,687 DEBUG Link stored
+2015-04-02 09:13:47,687 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,687 DEBUG Link stored
+2015-04-02 09:13:47,688 DEBUG Encountered link: page.php?id_link=594
+2015-04-02 09:13:47,688 DEBUG Link stored
+2015-04-02 09:13:47,688 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,688 DEBUG Link stored
+2015-04-02 09:13:47,690 DEBUG Encountered link: page.php?id_link=637
+2015-04-02 09:13:47,690 DEBUG Link stored
+2015-04-02 09:13:47,690 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,690 DEBUG Link stored
+2015-04-02 09:13:47,691 DEBUG Encountered link: page.php?id_link=510
+2015-04-02 09:13:47,691 DEBUG Link stored
+2015-04-02 09:13:47,691 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,691 DEBUG Link stored
+2015-04-02 09:13:47,691 DEBUG Encountered link: http://www.standardlifebank.co.uk/mortcalc/capitalrewarddecide.jsp
+2015-04-02 09:13:47,691 DEBUG Link stored
+2015-04-02 09:13:47,691 DEBUG Encountered link: page.php?id_link=595
+2015-04-02 09:13:47,692 DEBUG Link stored
+2015-04-02 09:13:47,692 DEBUG Encountered link: page.php?id_link=497
+2015-04-02 09:13:47,693 DEBUG Link stored
+2015-04-02 09:13:47,693 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,693 DEBUG Link stored
+2015-04-02 09:13:47,694 DEBUG Encountered link: page.php?id_link=514
+2015-04-02 09:13:47,694 DEBUG Link stored
+2015-04-02 09:13:47,694 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,694 DEBUG Link stored
+2015-04-02 09:13:47,695 DEBUG Encountered link: page.php?id_link=514
+2015-04-02 09:13:47,695 DEBUG Link stored
+2015-04-02 09:13:47,696 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,696 DEBUG Link stored
+2015-04-02 09:13:47,696 DEBUG Encountered link: page.php?id_link=514
+2015-04-02 09:13:47,696 DEBUG Link stored
+2015-04-02 09:13:47,697 DEBUG Encountered link: /page.php?id_link=517
+2015-04-02 09:13:47,697 DEBUG Link stored
+2015-04-02 09:13:47,697 DEBUG Encountered link: #top
+2015-04-02 09:13:47,697 DEBUG Link stored
+2015-04-02 09:13:47,697 DEBUG Encountered link: #top
+2015-04-02 09:13:47,697 DEBUG Link stored
+2015-04-02 09:13:47,697 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,697 DEBUG Encountered image: img/space.gif
+2015-04-02 09:13:47,698 DEBUG Encountered link: 
+2015-04-02 09:13:47,698 DEBUG Link stored
+2015-04-02 09:13:47,699 DEBUG Encountered link: page.php?id_link=498
+2015-04-02 09:13:47,699 DEBUG Link stored
+2015-04-02 09:13:47,700 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,700 DEBUG Encountered link: #top
+2015-04-02 09:13:47,700 DEBUG Link stored
+2015-04-02 09:13:47,700 DEBUG Encountered link: #top
+2015-04-02 09:13:47,700 DEBUG Link stored
+2015-04-02 09:13:47,700 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,700 DEBUG Encountered link: 
+2015-04-02 09:13:47,700 DEBUG Link stored
+2015-04-02 09:13:47,702 DEBUG Encountered link: page.php?id_link=597
+2015-04-02 09:13:47,702 DEBUG Link stored
+2015-04-02 09:13:47,702 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,703 DEBUG Encountered link: #top
+2015-04-02 09:13:47,703 DEBUG Link stored
+2015-04-02 09:13:47,703 DEBUG Encountered link: #top
+2015-04-02 09:13:47,703 DEBUG Link stored
+2015-04-02 09:13:47,703 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,703 DEBUG Encountered link: 
+2015-04-02 09:13:47,703 DEBUG Link stored
+2015-04-02 09:13:47,704 DEBUG Encountered link: page.php?id_link=501
+2015-04-02 09:13:47,704 DEBUG Link stored
+2015-04-02 09:13:47,705 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,705 DEBUG Encountered link: #top
+2015-04-02 09:13:47,705 DEBUG Link stored
+2015-04-02 09:13:47,705 DEBUG Encountered link: #top
+2015-04-02 09:13:47,705 DEBUG Link stored
+2015-04-02 09:13:47,705 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,705 DEBUG Encountered link: 
+2015-04-02 09:13:47,706 DEBUG Link stored
+2015-04-02 09:13:47,707 DEBUG Encountered link: page.php?id_link=501
+2015-04-02 09:13:47,707 DEBUG Link stored
+2015-04-02 09:13:47,707 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,707 DEBUG Encountered link: #top
+2015-04-02 09:13:47,707 DEBUG Link stored
+2015-04-02 09:13:47,708 DEBUG Encountered link: #top
+2015-04-02 09:13:47,708 DEBUG Link stored
+2015-04-02 09:13:47,708 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,708 DEBUG Encountered link: 
+2015-04-02 09:13:47,708 DEBUG Link stored
+2015-04-02 09:13:47,710 DEBUG Encountered link: page.php?id_link=502
+2015-04-02 09:13:47,710 DEBUG Link stored
+2015-04-02 09:13:47,710 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,710 DEBUG Encountered link: #top
+2015-04-02 09:13:47,710 DEBUG Link stored
+2015-04-02 09:13:47,710 DEBUG Encountered link: #top
+2015-04-02 09:13:47,711 DEBUG Link stored
+2015-04-02 09:13:47,711 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,711 DEBUG Encountered link: 
+2015-04-02 09:13:47,711 DEBUG Link stored
+2015-04-02 09:13:47,712 DEBUG Encountered link: page.php?id_link=502
+2015-04-02 09:13:47,713 DEBUG Link stored
+2015-04-02 09:13:47,713 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,713 DEBUG Encountered link: #top
+2015-04-02 09:13:47,713 DEBUG Link stored
+2015-04-02 09:13:47,713 DEBUG Encountered link: #top
+2015-04-02 09:13:47,713 DEBUG Link stored
+2015-04-02 09:13:47,713 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,714 DEBUG Encountered link: 
+2015-04-02 09:13:47,714 DEBUG Link stored
+2015-04-02 09:13:47,716 DEBUG Encountered link: page.php?id_link=499
+2015-04-02 09:13:47,717 DEBUG Link stored
+2015-04-02 09:13:47,717 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,717 DEBUG Encountered link: #top
+2015-04-02 09:13:47,717 DEBUG Link stored
+2015-04-02 09:13:47,717 DEBUG Encountered link: #top
+2015-04-02 09:13:47,717 DEBUG Link stored
+2015-04-02 09:13:47,717 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,717 DEBUG Encountered link: 
+2015-04-02 09:13:47,717 DEBUG Link stored
+2015-04-02 09:13:47,719 DEBUG Encountered link: page.php?id_link=499
+2015-04-02 09:13:47,719 DEBUG Link stored
+2015-04-02 09:13:47,719 DEBUG Encountered image: /img/gosmallyellow.gif
+2015-04-02 09:13:47,719 DEBUG Encountered link: #top
+2015-04-02 09:13:47,719 DEBUG Link stored
+2015-04-02 09:13:47,719 DEBUG Encountered link: #top
+2015-04-02 09:13:47,720 DEBUG Link stored
+2015-04-02 09:13:47,720 DEBUG Encountered image: /img/top.gif
+2015-04-02 09:13:47,720 DEBUG Encountered link: /page.php?id_link=346
+2015-04-02 09:13:47,720 DEBUG Link stored
+2015-04-02 09:13:47,720 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,721 DEBUG Encountered image: /img/postit_phonegirl.jpg
+2015-04-02 09:13:47,721 DEBUG Encountered image: /img/66.gif
+2015-04-02 09:13:47,721 DEBUG Encountered image: /img/99.gif
+2015-04-02 09:13:47,721 DEBUG Encountered image: img/navbottom.gif
+2015-04-02 09:13:47,721 DEBUG Encountered image: img/navtop.gif
+2015-04-02 09:13:47,721 DEBUG Encountered image: /img/smallnb.gif
+2015-04-02 09:13:47,722 DEBUG Encountered link: /page.php?id_link=450
+2015-04-02 09:13:47,722 DEBUG Link stored
+2015-04-02 09:13:47,722 DEBUG Encountered image: img/navbottom.gif
+2015-04-02 09:13:47,722 DEBUG Encountered image: /img/space.gif
+2015-04-02 09:13:47,722 DEBUG Encountered image: http://server-uk.imrworldwide.com/cgi-bin/count?cid=uk_standardlife_0
+2015-04-02 09:13:47,722 DEBUG Processing finished.
+2015-04-02 09:13:47,724 DEBUG Parse succeeded
+2015-04-02 09:13:47,724 DEBUG Creating measure
+2015-04-02 09:13:47,724 DEBUG Preloading frequency measure.
+2015-04-02 09:13:47,733 DEBUG Preloading complete.
+2015-04-02 09:13:47,733 DEBUG Starting train. Number of topics=2
+2015-04-02 09:13:47,733 INFO Number Of Topics =2
+2015-04-02 09:13:47,733 INFO Number Of Binary Problems =2
+2015-04-02 09:13:47,733 INFO Multiclass decomposition type =ONE_VS_ONE
+2015-04-02 09:13:47,734 INFO Decomposition Matrix
+2015-04-02 09:13:47,734 INFO 1 -1 
+2015-04-02 09:13:47,734 INFO -1 1 
+2015-04-02 09:13:47,735 INFO Number of SV=0
+2015-04-02 09:13:47,735 DEBUG Train finished.
+2015-04-02 09:13:47,737 DEBUG Loading parameters
+2015-04-02 09:13:47,738 DEBUG Creating parser
+2015-04-02 09:13:47,739 DEBUG Creating measure
+2015-04-02 09:13:47,739 DEBUG Creating measure
+2015-04-02 09:13:47,739 DEBUG Creating classifier
+2015-04-02 09:13:47,739 DEBUG Parsing content
+2015-04-02 09:13:47,739 INFO Parsing with parameters:
+2015-04-02 09:13:47,740 INFO Train: 0
+2015-04-02 09:13:47,740 INFO Processing (0 - None, 1 - Stemming, 2 - gramm): 1
+2015-04-02 09:13:47,740 INFO Gramm number: 3
+2015-04-02 09:13:47,740 INFO Convert encodings: 1
+2015-04-02 09:13:47,741 INFO Encoding: UTF-8
+2015-04-02 09:13:47,741 DEBUG Starting parser
+2015-04-02 09:13:47,741 DEBUG Getting contexts
+2015-04-02 09:13:47,741 DEBUG Initializing case converter and stop-words database.
+2015-04-02 09:13:47,757 DEBUG Initializing dictionary.
+2015-04-02 09:13:47,757 DEBUG Creating parsing pipe.
+2015-04-02 09:13:47,758 DEBUG Processing text...
+2015-04-02 09:13:47,758 DEBUG Encountered link: 
+2015-04-02 09:13:47,759 DEBUG Link stored
+2015-04-02 09:13:47,759 DEBUG Encountered link: /sethome.asp?ubhome=none
+2015-04-02 09:13:47,759 DEBUG Link stored
+2015-04-02 09:13:47,759 DEBUG Encountered image: /static/common/ublogo.gif
+2015-04-02 09:13:47,759 DEBUG Encountered image: /static/common/ptop-mstrip.gif
+2015-04-02 09:13:47,759 DEBUG Encountered image: /static/common/bi_left_corner.gif
+2015-04-02 09:13:47,759 DEBUG Encountered link: charges.asp
+2015-04-02 09:13:47,759 DEBUG Link stored
+2015-04-02 09:13:47,759 DEBUG Encountered link: /new/ni/products/ni_interest_rates.asp
+2015-04-02 09:13:47,760 DEBUG Link stored
+2015-04-02 09:13:47,760 DEBUG Encountered link: branches.asp
+2015-04-02 09:13:47,760 DEBUG Link stored
+2015-04-02 09:13:47,760 DEBUG Encountered link: news.asp
+2015-04-02 09:13:47,760 DEBUG Link stored
+2015-04-02 09:13:47,760 DEBUG Encountered link: jobs.asp
+2015-04-02 09:13:47,760 DEBUG Link stored
+2015-04-02 09:13:47,760 DEBUG Encountered link: /sethome.asp?ubhome=none
+2015-04-02 09:13:47,760 DEBUG Link stored
+2015-04-02 09:13:47,760 DEBUG Encountered link: legal.asp
+2015-04-02 09:13:47,761 DEBUG Link stored
+2015-04-02 09:13:47,761 DEBUG Encountered link: feedback.asp
+2015-04-02 09:13:47,761 DEBUG Link stored
+2015-04-02 09:13:47,761 DEBUG Encountered image: /static/common/bi_right_corner.gif
+2015-04-02 09:13:47,761 DEBUG Encountered image: /static/common/top-sstrip-w.gif
+2015-04-02 09:13:47,761 DEBUG Encountered image: /static/common/strip.gif
+2015-04-02 09:13:47,761 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,761 DEBUG Encountered link: /new/ni/products/ni_p_current_accounts.asp
+2015-04-02 09:13:47,761 DEBUG Link stored
+2015-04-02 09:13:47,762 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,762 DEBUG Encountered link: si_selectorsave.asp
+2015-04-02 09:13:47,762 DEBUG Link stored
+2015-04-02 09:13:47,762 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,762 DEBUG Encountered link: /new/ni/hm/ni_hm_buying_a_home.asp
+2015-04-02 09:13:47,762 DEBUG Link stored
+2015-04-02 09:13:47,762 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,762 DEBUG Encountered link: creditcards.asp
+2015-04-02 09:13:47,762 DEBUG Link stored
+2015-04-02 09:13:47,763 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,763 DEBUG Encountered link: /new/ni/products/general_loans.asp
+2015-04-02 09:13:47,763 DEBUG Link stored
+2015-04-02 09:13:47,763 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,763 DEBUG Encountered link: graduates.asp
+2015-04-02 09:13:47,763 DEBUG Link stored
+2015-04-02 09:13:47,763 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,763 DEBUG Encountered link: students.asp
+2015-04-02 09:13:47,763 DEBUG Link stored
+2015-04-02 09:13:47,764 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,764 DEBUG Encountered link: pensionslifeassurance.asp
+2015-04-02 09:13:47,764 DEBUG Link stored
+2015-04-02 09:13:47,764 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,764 DEBUG Encountered link: /new/ni/products/insurance_general.asp
+2015-04-02 09:13:47,764 DEBUG Link stored
+2015-04-02 09:13:47,764 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,764 DEBUG Encountered link: /new/ni/emu/people/emu_overview.asp
+2015-04-02 09:13:47,764 DEBUG Link stored
+2015-04-02 09:13:47,764 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,765 DEBUG Encountered link: /new/ni/legal/ni_privacy_policy.asp
+2015-04-02 09:13:47,765 DEBUG Link stored
+2015-04-02 09:13:47,765 DEBUG Encountered image: /static/common/spacer.gif
+2015-04-02 09:13:47,765 DEBUG Encountered image: /static/common/curve-w.gif
+2015-04-02 09:13:47,765 DEBUG Encountered image: /static/common/keywordshape.gif
+2015-04-02 09:13:47,765 DEBUG Encountered link: personalloans.asp
+2015-04-02 09:13:47,765 DEBUG Link stored
+2015-04-02 09:13:47,765 DEBUG Encountered image: /ads/ploans_3.gif
+2015-04-02 09:13:47,766 DEBUG Processing finished.
+2015-04-02 09:13:47,766 DEBUG Loading measure
+2015-04-02 09:13:47,766 DEBUG Loading measure from file
+2015-04-02 09:13:47,767 DEBUG Loaded measure from file
+2015-04-02 09:13:47,767 DEBUG Running classifier
+2015-04-02 09:13:47,767 DEBUG Starting predict.
+2015-04-02 09:13:47,767 DEBUG Predicting.
+2015-04-02 09:13:47,767 DEBUG Predicted successfully.
+2015-04-02 09:13:47,767 DEBUG Results constructed.
+2015-04-02 09:13:47,767 DEBUG Constructing result
+2015-04-02 09:13:47,767 INFO {'topics': {'1': 2, '0': 1}, 'weights': {'1': 0.5, '0': 0.5}, 'numberRelevant': 2}

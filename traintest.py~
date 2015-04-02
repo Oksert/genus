@@ -1,0 +1,17 @@
+import CModule 
+
+
+def main():
+	print 1
+	with open ("111.html", "r") as myfile:
+    		data=myfile.read().replace('\n', '')
+		ParserImpl.ParserImpl.parse(data, "UTF-8")
+
+	#ParserParams=dict([('processing', 'STEMMING')])
+	#MeasureParams=dict([('measure','FREQUENCY')])
+	#TSParams=dict([('numberOfDocuments', 1)])
+	#ClassifierParams=dict([('decompType', 'oneVsOne'), ('classType','SVM')])
+	#print "training"
+	#contman = ThreadContext.ContextManager("", 10000)
+	#contman = ThreadContext.getDefaultContext(contman)
+	#startTrain(ParserParams, MeasureParams, ClassifierParams, TSParams) #two predefined parameters PMCType PMCParams

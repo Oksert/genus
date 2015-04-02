@@ -1,0 +1,6 @@
+/home/kostya/Desktop/genus/pyBinding/CMakeFiles/CMODULE.dir
+/home/kostya/Desktop/genus/classifier/CMakeFiles/classifier.dir
+/home/kostya/Desktop/genus/fplib/CMakeFiles/fp.dir
+/home/kostya/Desktop/genus/frequencymeasure/CMakeFiles/frequencymeasure.dir
+/home/kostya/Desktop/genus/parser/CMakeFiles/parser.dir
+/home/kostya/Desktop/genus/parser/src/stemmer/CMakeFiles/stemmer.dir

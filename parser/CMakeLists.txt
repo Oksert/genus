@@ -1,0 +1,29 @@
+cmake_minimum_required(VERSION 2.6)
+
+set(SRC src/BitSet.cpp src/ConversionLexer.cpp src/ConversionParser.cpp src/ConvertedStream.cpp src/Data_Element.cpp src/Dictionary.cpp src/Grammator.cpp src/HTMLLexer.cpp src/HTMLParser.cpp src/Parser.cpp src/Stemmer.cpp src/UTFCaseChanger.cpp src/OutputGenerator.cpp)
+
+find_path(ICONV_PATH iconv.h)
+find_path(BDB_PATH db_cxx.h PATH_SUFFIXES db42)
+find_path(ANTLR_PATH antlr/config.hpp)
+
+find_library(ANTLR_LIB antlr)
+find_library(BDB_LIB db_cxx-6.0)
+#find_package(BerkeleyDB REQUIRED)
+#include(FindPkgConfig)
+#pkg_search_module(BDB REQUIRED db_load>=4.1)
+find_library(ICONV_LIB iconv)
+if (UNIX)
+	set(ICONV_LIB rt)
+endif (UNIX)
+
+include_directories(src/stemmer/include ../pyBinding/include ${ICONV_PATH} ${BDB_PATH} ${ANTLR_PATH})
+
+add_subdirectory(src/stemmer)
+
+add_library(parser STATIC ${SRC})
+
+set_target_properties(parser PROPERTIES COMPILE_DEFINITIONS MODE_LIBRARY)
+
+add_dependencies(parser stemmer)
+
+target_link_libraries(parser stemmer ${ANTLR_LIB} ${BDB_LIB} ${ICONV_LIB})

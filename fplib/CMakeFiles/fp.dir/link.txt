@@ -1,0 +1,2 @@
+/usr/bin/ar cr libfp.a  CMakeFiles/fp.dir/src/fptree.cpp.o CMakeFiles/fp.dir/src/fptreealg.cpp.o CMakeFiles/fp.dir/src/fptreealgfactory.cpp.o CMakeFiles/fp.dir/src/headertable.cpp.o CMakeFiles/fp.dir/src/headertablevalue.cpp.o CMakeFiles/fp.dir/src/fpnode.cpp.o CMakeFiles/fp.dir/src/prefixnode.cpp.o CMakeFiles/fp.dir/src/supportgreater.cpp.o CMakeFiles/fp.dir/src/tfilereader.cpp.o
+/usr/bin/ranlib libfp.a
